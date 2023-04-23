@@ -1,0 +1,6937 @@
+{
+ "totalProfit": 128989480,
+ "numCrafts": 200,
+ "totalItems": [
+     {
+    "itemID": 52327,
+    "itemString": "item:52327::::::::70:577:::::::::",
+    "qualityID": nil,
+    "quantity": 403,
+    "quantityMulticraft": 0
+   },
+     {
+    "itemID": 52182,
+    "itemString": "item:52182::::::::70:577:::::::::",
+    "qualityID": nil,
+    "quantity": 33,
+    "quantityMulticraft": 0
+   },
+     {
+    "itemID": 52180,
+    "itemString": "item:52180::::::::70:577:::::::::",
+    "qualityID": nil,
+    "quantity": 35,
+    "quantityMulticraft": 0
+   },
+     {
+    "itemID": 52190,
+    "itemString": "item:52190::::::::70:577:::::::::",
+    "qualityID": nil,
+    "quantity": 16,
+    "quantityMulticraft": 0
+   },
+     {
+    "itemID": 52195,
+    "itemString": "item:52195::::::::70:577:::::::::",
+    "qualityID": nil,
+    "quantity": 18,
+    "quantityMulticraft": 0
+   },
+     {
+    "itemID": 52194,
+    "itemString": "item:52194::::::::70:577:::::::::",
+    "qualityID": nil,
+    "quantity": 18,
+    "quantityMulticraft": 0
+   },
+     {
+    "itemID": 52178,
+    "itemString": "item:52178::::::::70:577:::::::::",
+    "qualityID": nil,
+    "quantity": 33,
+    "quantityMulticraft": 0
+   },
+     {
+    "itemID": 52177,
+    "itemString": "item:52177::::::::70:577:::::::::",
+    "qualityID": nil,
+    "quantity": 25,
+    "quantityMulticraft": 0
+   },
+     {
+    "itemID": 52191,
+    "itemString": "item:52191::::::::70:577:::::::::",
+    "qualityID": nil,
+    "quantity": 13,
+    "quantityMulticraft": 0
+   },
+     {
+    "itemID": 52181,
+    "itemString": "item:52181::::::::70:577:::::::::",
+    "qualityID": nil,
+    "quantity": 37,
+    "quantityMulticraft": 0
+   },
+     {
+    "itemID": 52179,
+    "itemString": "item:52179::::::::70:577:::::::::",
+    "qualityID": nil,
+    "quantity": 37,
+    "quantityMulticraft": 0
+   },
+     {
+    "itemID": 52193,
+    "itemString": "item:52193::::::::70:577:::::::::",
+    "qualityID": nil,
+    "quantity": 16,
+    "quantityMulticraft": 0
+   },
+     {
+    "itemID": 52192,
+    "itemString": "item:52192::::::::70:577:::::::::",
+    "qualityID": nil,
+    "quantity": 20,
+    "quantityMulticraft": 0
+   }
+ ],
+ "totalSavedReagents": [
+
+ ],
+ "craftRecipeData": [
+     {
+    "recipeID": 382978,
+    "numCrafts": 200,
+    "totalProfit": 128989480,
+    "totalExpectedProfit": 2660475000,
+    "numInspiration": 0,
+    "numMulticraft": 0,
+    "numMulticraftExtraItems": 0,
+    "numResourcefulness": 0,
+    "totalSavedCosts": 0,
+    "totalItems": [
+           {
+       "itemID": 52327,
+       "itemString": "item:52327::::::::70:577:::::::::",
+       "qualityID": nil,
+       "quantity": 403,
+       "quantityMulticraft": 0
+      },
+           {
+       "itemID": 52182,
+       "itemString": "item:52182::::::::70:577:::::::::",
+       "qualityID": nil,
+       "quantity": 33,
+       "quantityMulticraft": 0
+      },
+           {
+       "itemID": 52180,
+       "itemString": "item:52180::::::::70:577:::::::::",
+       "qualityID": nil,
+       "quantity": 35,
+       "quantityMulticraft": 0
+      },
+           {
+       "itemID": 52190,
+       "itemString": "item:52190::::::::70:577:::::::::",
+       "qualityID": nil,
+       "quantity": 16,
+       "quantityMulticraft": 0
+      },
+           {
+       "itemID": 52195,
+       "itemString": "item:52195::::::::70:577:::::::::",
+       "qualityID": nil,
+       "quantity": 18,
+       "quantityMulticraft": 0
+      },
+           {
+       "itemID": 52194,
+       "itemString": "item:52194::::::::70:577:::::::::",
+       "qualityID": nil,
+       "quantity": 18,
+       "quantityMulticraft": 0
+      },
+           {
+       "itemID": 52178,
+       "itemString": "item:52178::::::::70:577:::::::::",
+       "qualityID": nil,
+       "quantity": 33,
+       "quantityMulticraft": 0
+      },
+           {
+       "itemID": 52177,
+       "itemString": "item:52177::::::::70:577:::::::::",
+       "qualityID": nil,
+       "quantity": 25,
+       "quantityMulticraft": 0
+      },
+           {
+       "itemID": 52191,
+       "itemString": "item:52191::::::::70:577:::::::::",
+       "qualityID": nil,
+       "quantity": 13,
+       "quantityMulticraft": 0
+      },
+           {
+       "itemID": 52181,
+       "itemString": "item:52181::::::::70:577:::::::::",
+       "qualityID": nil,
+       "quantity": 37,
+       "quantityMulticraft": 0
+      },
+           {
+       "itemID": 52179,
+       "itemString": "item:52179::::::::70:577:::::::::",
+       "qualityID": nil,
+       "quantity": 37,
+       "quantityMulticraft": 0
+      },
+           {
+       "itemID": 52193,
+       "itemString": "item:52193::::::::70:577:::::::::",
+       "qualityID": nil,
+       "quantity": 16,
+       "quantityMulticraft": 0
+      },
+           {
+       "itemID": 52192,
+       "itemString": "item:52192::::::::70:577:::::::::",
+       "qualityID": nil,
+       "quantity": 20,
+       "quantityMulticraft": 0
+      }
+    ],
+    "totalSavedReagents": [
+
+    ],
+    "craftResults": [
+           {
+       "recipeID": 382978,
+       "profit": 336300,
+       "expectedAverageProfit": 13302375,
+       "expectedAverageSavedCosts": 0,
+       "expectedQuality": 1,
+       "craftingChance": 1,
+       "triggeredInspiration": false,
+       "triggeredMulticraft": false,
+       "triggeredResourcefulness": false,
+       "craftResultItems": [
+                 {
+          "itemID": 52327,
+          "itemString": "item:52327::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 403,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52182,
+          "itemString": "item:52182::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 33,
+          "quantityMulticraft": 0
+         }
+       ],
+       "savedReagents": [
+
+       ]
+      },
+           {
+       "recipeID": 382978,
+       "profit": 989520,
+       "expectedAverageProfit": 13302375,
+       "expectedAverageSavedCosts": 0,
+       "expectedQuality": 1,
+       "craftingChance": 1,
+       "triggeredInspiration": false,
+       "triggeredMulticraft": false,
+       "triggeredResourcefulness": false,
+       "craftResultItems": [
+                 {
+          "itemID": 52327,
+          "itemString": "item:52327::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 3,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52180,
+          "itemString": "item:52180::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 35,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52190,
+          "itemString": "item:52190::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 16,
+          "quantityMulticraft": 0
+         }
+       ],
+       "savedReagents": [
+
+       ]
+      },
+           {
+       "recipeID": 382978,
+       "profit": 1181610,
+       "expectedAverageProfit": 13302375,
+       "expectedAverageSavedCosts": 0,
+       "expectedQuality": 1,
+       "craftingChance": 1,
+       "triggeredInspiration": false,
+       "triggeredMulticraft": false,
+       "triggeredResourcefulness": false,
+       "craftResultItems": [
+                 {
+          "itemID": 52327,
+          "itemString": "item:52327::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 3,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52180,
+          "itemString": "item:52180::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52195,
+          "itemString": "item:52195::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 18,
+          "quantityMulticraft": 0
+         }
+       ],
+       "savedReagents": [
+
+       ]
+      },
+           {
+       "recipeID": 382978,
+       "profit": 953325,
+       "expectedAverageProfit": 13302375,
+       "expectedAverageSavedCosts": 0,
+       "expectedQuality": 1,
+       "craftingChance": 1,
+       "triggeredInspiration": false,
+       "triggeredMulticraft": false,
+       "triggeredResourcefulness": false,
+       "craftResultItems": [
+                 {
+          "itemID": 52327,
+          "itemString": "item:52327::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 3,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52180,
+          "itemString": "item:52180::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52194,
+          "itemString": "item:52194::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 18,
+          "quantityMulticraft": 0
+         }
+       ],
+       "savedReagents": [
+
+       ]
+      },
+           {
+       "recipeID": 382978,
+       "profit": 1211155,
+       "expectedAverageProfit": 13302375,
+       "expectedAverageSavedCosts": 0,
+       "expectedQuality": 1,
+       "craftingChance": 1,
+       "triggeredInspiration": false,
+       "triggeredMulticraft": false,
+       "triggeredResourcefulness": false,
+       "craftResultItems": [
+                 {
+          "itemID": 52327,
+          "itemString": "item:52327::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52178,
+          "itemString": "item:52178::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 33,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52195,
+          "itemString": "item:52195::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52190,
+          "itemString": "item:52190::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         }
+       ],
+       "savedReagents": [
+
+       ]
+      },
+           {
+       "recipeID": 382978,
+       "profit": 513950,
+       "expectedAverageProfit": 13302375,
+       "expectedAverageSavedCosts": 0,
+       "expectedQuality": 1,
+       "craftingChance": 1,
+       "triggeredInspiration": false,
+       "triggeredMulticraft": false,
+       "triggeredResourcefulness": false,
+       "craftResultItems": [
+                 {
+          "itemID": 52327,
+          "itemString": "item:52327::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 3,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52182,
+          "itemString": "item:52182::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         }
+       ],
+       "savedReagents": [
+
+       ]
+      },
+           {
+       "recipeID": 382978,
+       "profit": 408975,
+       "expectedAverageProfit": 13302375,
+       "expectedAverageSavedCosts": 0,
+       "expectedQuality": 1,
+       "craftingChance": 1,
+       "triggeredInspiration": false,
+       "triggeredMulticraft": false,
+       "triggeredResourcefulness": false,
+       "craftResultItems": [
+                 {
+          "itemID": 52327,
+          "itemString": "item:52327::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 3,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52177,
+          "itemString": "item:52177::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 25,
+          "quantityMulticraft": 0
+         }
+       ],
+       "savedReagents": [
+
+       ]
+      },
+           {
+       "recipeID": 382978,
+       "profit": 668800,
+       "expectedAverageProfit": 13302375,
+       "expectedAverageSavedCosts": 0,
+       "expectedQuality": 1,
+       "craftingChance": 1,
+       "triggeredInspiration": false,
+       "triggeredMulticraft": false,
+       "triggeredResourcefulness": false,
+       "craftResultItems": [
+                 {
+          "itemID": 52327,
+          "itemString": "item:52327::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52182,
+          "itemString": "item:52182::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52191,
+          "itemString": "item:52191::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 13,
+          "quantityMulticraft": 0
+         }
+       ],
+       "savedReagents": [
+
+       ]
+      },
+           {
+       "recipeID": 382978,
+       "profit": 974985,
+       "expectedAverageProfit": 13302375,
+       "expectedAverageSavedCosts": 0,
+       "expectedQuality": 1,
+       "craftingChance": 1,
+       "triggeredInspiration": false,
+       "triggeredMulticraft": false,
+       "triggeredResourcefulness": false,
+       "craftResultItems": [
+                 {
+          "itemID": 52327,
+          "itemString": "item:52327::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 3,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52178,
+          "itemString": "item:52178::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52195,
+          "itemString": "item:52195::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         }
+       ],
+       "savedReagents": [
+
+       ]
+      },
+           {
+       "recipeID": 382978,
+       "profit": 535040,
+       "expectedAverageProfit": 13302375,
+       "expectedAverageSavedCosts": 0,
+       "expectedQuality": 1,
+       "craftingChance": 1,
+       "triggeredInspiration": false,
+       "triggeredMulticraft": false,
+       "triggeredResourcefulness": false,
+       "craftResultItems": [
+                 {
+          "itemID": 52327,
+          "itemString": "item:52327::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52181,
+          "itemString": "item:52181::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 37,
+          "quantityMulticraft": 0
+         }
+       ],
+       "savedReagents": [
+
+       ]
+      },
+           {
+       "recipeID": 382978,
+       "profit": 280250,
+       "expectedAverageProfit": 13302375,
+       "expectedAverageSavedCosts": 0,
+       "expectedQuality": 1,
+       "craftingChance": 1,
+       "triggeredInspiration": false,
+       "triggeredMulticraft": false,
+       "triggeredResourcefulness": false,
+       "craftResultItems": [
+                 {
+          "itemID": 52327,
+          "itemString": "item:52327::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 2,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52178,
+          "itemString": "item:52178::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         }
+       ],
+       "savedReagents": [
+
+       ]
+      },
+           {
+       "recipeID": 382978,
+       "profit": 486875,
+       "expectedAverageProfit": 13302375,
+       "expectedAverageSavedCosts": 0,
+       "expectedQuality": 1,
+       "craftingChance": 1,
+       "triggeredInspiration": false,
+       "triggeredMulticraft": false,
+       "triggeredResourcefulness": false,
+       "craftResultItems": [
+                 {
+          "itemID": 52327,
+          "itemString": "item:52327::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 2,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52180,
+          "itemString": "item:52180::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         }
+       ],
+       "savedReagents": [
+
+       ]
+      },
+           {
+       "recipeID": 382978,
+       "profit": 839325,
+       "expectedAverageProfit": 13302375,
+       "expectedAverageSavedCosts": 0,
+       "expectedQuality": 1,
+       "craftingChance": 1,
+       "triggeredInspiration": false,
+       "triggeredMulticraft": false,
+       "triggeredResourcefulness": false,
+       "craftResultItems": [
+                 {
+          "itemID": 52327,
+          "itemString": "item:52327::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 2,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52179,
+          "itemString": "item:52179::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 37,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52194,
+          "itemString": "item:52194::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         }
+       ],
+       "savedReagents": [
+
+       ]
+      },
+           {
+       "recipeID": 382978,
+       "profit": 841700,
+       "expectedAverageProfit": 13302375,
+       "expectedAverageSavedCosts": 0,
+       "expectedQuality": 1,
+       "craftingChance": 1,
+       "triggeredInspiration": false,
+       "triggeredMulticraft": false,
+       "triggeredResourcefulness": false,
+       "craftResultItems": [
+                 {
+          "itemID": 52327,
+          "itemString": "item:52327::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 2,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52179,
+          "itemString": "item:52179::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52193,
+          "itemString": "item:52193::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 16,
+          "quantityMulticraft": 0
+         }
+       ],
+       "savedReagents": [
+
+       ]
+      },
+           {
+       "recipeID": 382978,
+       "profit": 372875,
+       "expectedAverageProfit": 13302375,
+       "expectedAverageSavedCosts": 0,
+       "expectedQuality": 1,
+       "craftingChance": 1,
+       "triggeredInspiration": false,
+       "triggeredMulticraft": false,
+       "triggeredResourcefulness": false,
+       "craftResultItems": [
+                 {
+          "itemID": 52327,
+          "itemString": "item:52327::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52179,
+          "itemString": "item:52179::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         }
+       ],
+       "savedReagents": [
+
+       ]
+      },
+           {
+       "recipeID": 382978,
+       "profit": 535040,
+       "expectedAverageProfit": 13302375,
+       "expectedAverageSavedCosts": 0,
+       "expectedQuality": 1,
+       "craftingChance": 1,
+       "triggeredInspiration": false,
+       "triggeredMulticraft": false,
+       "triggeredResourcefulness": false,
+       "craftResultItems": [
+                 {
+          "itemID": 52327,
+          "itemString": "item:52327::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52181,
+          "itemString": "item:52181::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         }
+       ],
+       "savedReagents": [
+
+       ]
+      },
+           {
+       "recipeID": 382978,
+       "profit": 461700,
+       "expectedAverageProfit": 13302375,
+       "expectedAverageSavedCosts": 0,
+       "expectedQuality": 1,
+       "craftingChance": 1,
+       "triggeredInspiration": false,
+       "triggeredMulticraft": false,
+       "triggeredResourcefulness": false,
+       "craftResultItems": [
+                 {
+          "itemID": 52327,
+          "itemString": "item:52327::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 2,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52179,
+          "itemString": "item:52179::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         }
+       ],
+       "savedReagents": [
+
+       ]
+      },
+           {
+       "recipeID": 382978,
+       "profit": 575700,
+       "expectedAverageProfit": 13302375,
+       "expectedAverageSavedCosts": 0,
+       "expectedQuality": 1,
+       "craftingChance": 1,
+       "triggeredInspiration": false,
+       "triggeredMulticraft": false,
+       "triggeredResourcefulness": false,
+       "craftResultItems": [
+                 {
+          "itemID": 52327,
+          "itemString": "item:52327::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 3,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52180,
+          "itemString": "item:52180::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         }
+       ],
+       "savedReagents": [
+
+       ]
+      },
+           {
+       "recipeID": 382978,
+       "profit": 372875,
+       "expectedAverageProfit": 13302375,
+       "expectedAverageSavedCosts": 0,
+       "expectedQuality": 1,
+       "craftingChance": 1,
+       "triggeredInspiration": false,
+       "triggeredMulticraft": false,
+       "triggeredResourcefulness": false,
+       "craftResultItems": [
+                 {
+          "itemID": 52327,
+          "itemString": "item:52327::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52179,
+          "itemString": "item:52179::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         }
+       ],
+       "savedReagents": [
+
+       ]
+      },
+           {
+       "recipeID": 382978,
+       "profit": 372875,
+       "expectedAverageProfit": 13302375,
+       "expectedAverageSavedCosts": 0,
+       "expectedQuality": 1,
+       "craftingChance": 1,
+       "triggeredInspiration": false,
+       "triggeredMulticraft": false,
+       "triggeredResourcefulness": false,
+       "craftResultItems": [
+                 {
+          "itemID": 52327,
+          "itemString": "item:52327::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52179,
+          "itemString": "item:52179::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         }
+       ],
+       "savedReagents": [
+
+       ]
+      },
+           {
+       "recipeID": 382978,
+       "profit": 461700,
+       "expectedAverageProfit": 13302375,
+       "expectedAverageSavedCosts": 0,
+       "expectedQuality": 1,
+       "craftingChance": 1,
+       "triggeredInspiration": false,
+       "triggeredMulticraft": false,
+       "triggeredResourcefulness": false,
+       "craftResultItems": [
+                 {
+          "itemID": 52327,
+          "itemString": "item:52327::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 2,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52179,
+          "itemString": "item:52179::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         }
+       ],
+       "savedReagents": [
+
+       ]
+      },
+           {
+       "recipeID": 382978,
+       "profit": 398050,
+       "expectedAverageProfit": 13302375,
+       "expectedAverageSavedCosts": 0,
+       "expectedQuality": 1,
+       "craftingChance": 1,
+       "triggeredInspiration": false,
+       "triggeredMulticraft": false,
+       "triggeredResourcefulness": false,
+       "craftResultItems": [
+                 {
+          "itemID": 52327,
+          "itemString": "item:52327::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52180,
+          "itemString": "item:52180::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         }
+       ],
+       "savedReagents": [
+
+       ]
+      },
+           {
+       "recipeID": 382978,
+       "profit": 398050,
+       "expectedAverageProfit": 13302375,
+       "expectedAverageSavedCosts": 0,
+       "expectedQuality": 1,
+       "craftingChance": 1,
+       "triggeredInspiration": false,
+       "triggeredMulticraft": false,
+       "triggeredResourcefulness": false,
+       "craftResultItems": [
+                 {
+          "itemID": 52327,
+          "itemString": "item:52327::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52180,
+          "itemString": "item:52180::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         }
+       ],
+       "savedReagents": [
+
+       ]
+      },
+           {
+       "recipeID": 382978,
+       "profit": 700530,
+       "expectedAverageProfit": 13302375,
+       "expectedAverageSavedCosts": 0,
+       "expectedQuality": 1,
+       "craftingChance": 1,
+       "triggeredInspiration": false,
+       "triggeredMulticraft": false,
+       "triggeredResourcefulness": false,
+       "craftResultItems": [
+                 {
+          "itemID": 52327,
+          "itemString": "item:52327::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 2,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52182,
+          "itemString": "item:52182::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52192,
+          "itemString": "item:52192::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 20,
+          "quantityMulticraft": 0
+         }
+       ],
+       "savedReagents": [
+
+       ]
+      },
+           {
+       "recipeID": 382978,
+       "profit": 372875,
+       "expectedAverageProfit": 13302375,
+       "expectedAverageSavedCosts": 0,
+       "expectedQuality": 1,
+       "craftingChance": 1,
+       "triggeredInspiration": false,
+       "triggeredMulticraft": false,
+       "triggeredResourcefulness": false,
+       "craftResultItems": [
+                 {
+          "itemID": 52327,
+          "itemString": "item:52327::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52179,
+          "itemString": "item:52179::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         }
+       ],
+       "savedReagents": [
+
+       ]
+      },
+           {
+       "recipeID": 382978,
+       "profit": 1140950,
+       "expectedAverageProfit": 13302375,
+       "expectedAverageSavedCosts": 0,
+       "expectedQuality": 1,
+       "craftingChance": 1,
+       "triggeredInspiration": false,
+       "triggeredMulticraft": false,
+       "triggeredResourcefulness": false,
+       "craftResultItems": [
+                 {
+          "itemID": 52327,
+          "itemString": "item:52327::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52181,
+          "itemString": "item:52181::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52195,
+          "itemString": "item:52195::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         }
+       ],
+       "savedReagents": [
+
+       ]
+      },
+           {
+       "recipeID": 382978,
+       "profit": 425125,
+       "expectedAverageProfit": 13302375,
+       "expectedAverageSavedCosts": 0,
+       "expectedQuality": 1,
+       "craftingChance": 1,
+       "triggeredInspiration": false,
+       "triggeredMulticraft": false,
+       "triggeredResourcefulness": false,
+       "craftResultItems": [
+                 {
+          "itemID": 52327,
+          "itemString": "item:52327::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 2,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52182,
+          "itemString": "item:52182::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         }
+       ],
+       "savedReagents": [
+
+       ]
+      },
+           {
+       "recipeID": 382978,
+       "profit": 575700,
+       "expectedAverageProfit": 13302375,
+       "expectedAverageSavedCosts": 0,
+       "expectedQuality": 1,
+       "craftingChance": 1,
+       "triggeredInspiration": false,
+       "triggeredMulticraft": false,
+       "triggeredResourcefulness": false,
+       "craftResultItems": [
+                 {
+          "itemID": 52327,
+          "itemString": "item:52327::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 3,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52180,
+          "itemString": "item:52180::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         }
+       ],
+       "savedReagents": [
+
+       ]
+      },
+           {
+       "recipeID": 382978,
+       "profit": 866875,
+       "expectedAverageProfit": 13302375,
+       "expectedAverageSavedCosts": 0,
+       "expectedQuality": 1,
+       "craftingChance": 1,
+       "triggeredInspiration": false,
+       "triggeredMulticraft": false,
+       "triggeredResourcefulness": false,
+       "craftResultItems": [
+                 {
+          "itemID": 52327,
+          "itemString": "item:52327::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 2,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52180,
+          "itemString": "item:52180::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52193,
+          "itemString": "item:52193::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         }
+       ],
+       "savedReagents": [
+
+       ]
+      },
+           {
+       "recipeID": 382978,
+       "profit": 425125,
+       "expectedAverageProfit": 13302375,
+       "expectedAverageSavedCosts": 0,
+       "expectedQuality": 1,
+       "craftingChance": 1,
+       "triggeredInspiration": false,
+       "triggeredMulticraft": false,
+       "triggeredResourcefulness": false,
+       "craftResultItems": [
+                 {
+          "itemID": 52327,
+          "itemString": "item:52327::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 2,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52182,
+          "itemString": "item:52182::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         }
+       ],
+       "savedReagents": [
+
+       ]
+      },
+           {
+       "recipeID": 382978,
+       "profit": 486875,
+       "expectedAverageProfit": 13302375,
+       "expectedAverageSavedCosts": 0,
+       "expectedQuality": 1,
+       "craftingChance": 1,
+       "triggeredInspiration": false,
+       "triggeredMulticraft": false,
+       "triggeredResourcefulness": false,
+       "craftResultItems": [
+                 {
+          "itemID": 52327,
+          "itemString": "item:52327::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 2,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52180,
+          "itemString": "item:52180::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         }
+       ],
+       "savedReagents": [
+
+       ]
+      },
+           {
+       "recipeID": 382978,
+       "profit": 513950,
+       "expectedAverageProfit": 13302375,
+       "expectedAverageSavedCosts": 0,
+       "expectedQuality": 1,
+       "craftingChance": 1,
+       "triggeredInspiration": false,
+       "triggeredMulticraft": false,
+       "triggeredResourcefulness": false,
+       "craftResultItems": [
+                 {
+          "itemID": 52327,
+          "itemString": "item:52327::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 3,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52182,
+          "itemString": "item:52182::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         }
+       ],
+       "savedReagents": [
+
+       ]
+      },
+           {
+       "recipeID": 382978,
+       "profit": 231325,
+       "expectedAverageProfit": 13302375,
+       "expectedAverageSavedCosts": 0,
+       "expectedQuality": 1,
+       "craftingChance": 1,
+       "triggeredInspiration": false,
+       "triggeredMulticraft": false,
+       "triggeredResourcefulness": false,
+       "craftResultItems": [
+                 {
+          "itemID": 52327,
+          "itemString": "item:52327::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52177,
+          "itemString": "item:52177::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         }
+       ],
+       "savedReagents": [
+
+       ]
+      },
+           {
+       "recipeID": 382978,
+       "profit": 191425,
+       "expectedAverageProfit": 13302375,
+       "expectedAverageSavedCosts": 0,
+       "expectedQuality": 1,
+       "craftingChance": 1,
+       "triggeredInspiration": false,
+       "triggeredMulticraft": false,
+       "triggeredResourcefulness": false,
+       "craftResultItems": [
+                 {
+          "itemID": 52327,
+          "itemString": "item:52327::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52178,
+          "itemString": "item:52178::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         }
+       ],
+       "savedReagents": [
+
+       ]
+      },
+           {
+       "recipeID": 382978,
+       "profit": 550525,
+       "expectedAverageProfit": 13302375,
+       "expectedAverageSavedCosts": 0,
+       "expectedQuality": 1,
+       "craftingChance": 1,
+       "triggeredInspiration": false,
+       "triggeredMulticraft": false,
+       "triggeredResourcefulness": false,
+       "craftResultItems": [
+                 {
+          "itemID": 52327,
+          "itemString": "item:52327::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 3,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52179,
+          "itemString": "item:52179::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         }
+       ],
+       "savedReagents": [
+
+       ]
+      },
+           {
+       "recipeID": 382978,
+       "profit": 819375,
+       "expectedAverageProfit": 13302375,
+       "expectedAverageSavedCosts": 0,
+       "expectedQuality": 1,
+       "craftingChance": 1,
+       "triggeredInspiration": false,
+       "triggeredMulticraft": false,
+       "triggeredResourcefulness": false,
+       "craftResultItems": [
+                 {
+          "itemID": 52327,
+          "itemString": "item:52327::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 2,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52180,
+          "itemString": "item:52180::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52191,
+          "itemString": "item:52191::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         }
+       ],
+       "savedReagents": [
+
+       ]
+      },
+           {
+       "recipeID": 382978,
+       "profit": 461700,
+       "expectedAverageProfit": 13302375,
+       "expectedAverageSavedCosts": 0,
+       "expectedQuality": 1,
+       "craftingChance": 1,
+       "triggeredInspiration": false,
+       "triggeredMulticraft": false,
+       "triggeredResourcefulness": false,
+       "craftResultItems": [
+                 {
+          "itemID": 52327,
+          "itemString": "item:52327::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 2,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52179,
+          "itemString": "item:52179::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         }
+       ],
+       "savedReagents": [
+
+       ]
+      },
+           {
+       "recipeID": 382978,
+       "profit": 786695,
+       "expectedAverageProfit": 13302375,
+       "expectedAverageSavedCosts": 0,
+       "expectedQuality": 1,
+       "craftingChance": 1,
+       "triggeredInspiration": false,
+       "triggeredMulticraft": false,
+       "triggeredResourcefulness": false,
+       "craftResultItems": [
+                 {
+          "itemID": 52327,
+          "itemString": "item:52327::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52179,
+          "itemString": "item:52179::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52190,
+          "itemString": "item:52190::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         }
+       ],
+       "savedReagents": [
+
+       ]
+      },
+           {
+       "recipeID": 382978,
+       "profit": 320150,
+       "expectedAverageProfit": 13302375,
+       "expectedAverageSavedCosts": 0,
+       "expectedQuality": 1,
+       "craftingChance": 1,
+       "triggeredInspiration": false,
+       "triggeredMulticraft": false,
+       "triggeredResourcefulness": false,
+       "craftResultItems": [
+                 {
+          "itemID": 52327,
+          "itemString": "item:52327::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 2,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52177,
+          "itemString": "item:52177::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         }
+       ],
+       "savedReagents": [
+
+       ]
+      },
+           {
+       "recipeID": 382978,
+       "profit": 513950,
+       "expectedAverageProfit": 13302375,
+       "expectedAverageSavedCosts": 0,
+       "expectedQuality": 1,
+       "craftingChance": 1,
+       "triggeredInspiration": false,
+       "triggeredMulticraft": false,
+       "triggeredResourcefulness": false,
+       "craftResultItems": [
+                 {
+          "itemID": 52327,
+          "itemString": "item:52327::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 3,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52182,
+          "itemString": "item:52182::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         }
+       ],
+       "savedReagents": [
+
+       ]
+      },
+           {
+       "recipeID": 382978,
+       "profit": 550525,
+       "expectedAverageProfit": 13302375,
+       "expectedAverageSavedCosts": 0,
+       "expectedQuality": 1,
+       "craftingChance": 1,
+       "triggeredInspiration": false,
+       "triggeredMulticraft": false,
+       "triggeredResourcefulness": false,
+       "craftResultItems": [
+                 {
+          "itemID": 52327,
+          "itemString": "item:52327::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 3,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52179,
+          "itemString": "item:52179::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         }
+       ],
+       "savedReagents": [
+
+       ]
+      },
+           {
+       "recipeID": 382978,
+       "profit": 1229775,
+       "expectedAverageProfit": 13302375,
+       "expectedAverageSavedCosts": 0,
+       "expectedQuality": 1,
+       "craftingChance": 1,
+       "triggeredInspiration": false,
+       "triggeredMulticraft": false,
+       "triggeredResourcefulness": false,
+       "craftResultItems": [
+                 {
+          "itemID": 52327,
+          "itemString": "item:52327::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 2,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52181,
+          "itemString": "item:52181::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52195,
+          "itemString": "item:52195::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         }
+       ],
+       "savedReagents": [
+
+       ]
+      },
+           {
+       "recipeID": 382978,
+       "profit": 575700,
+       "expectedAverageProfit": 13302375,
+       "expectedAverageSavedCosts": 0,
+       "expectedQuality": 1,
+       "craftingChance": 1,
+       "triggeredInspiration": false,
+       "triggeredMulticraft": false,
+       "triggeredResourcefulness": false,
+       "craftResultItems": [
+                 {
+          "itemID": 52327,
+          "itemString": "item:52327::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 3,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52180,
+          "itemString": "item:52180::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         }
+       ],
+       "savedReagents": [
+
+       ]
+      },
+           {
+       "recipeID": 382978,
+       "profit": 712690,
+       "expectedAverageProfit": 13302375,
+       "expectedAverageSavedCosts": 0,
+       "expectedQuality": 1,
+       "craftingChance": 1,
+       "triggeredInspiration": false,
+       "triggeredMulticraft": false,
+       "triggeredResourcefulness": false,
+       "craftResultItems": [
+                 {
+          "itemID": 52327,
+          "itemString": "item:52327::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 3,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52181,
+          "itemString": "item:52181::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         }
+       ],
+       "savedReagents": [
+
+       ]
+      },
+           {
+       "recipeID": 382978,
+       "profit": 838945,
+       "expectedAverageProfit": 13302375,
+       "expectedAverageSavedCosts": 0,
+       "expectedQuality": 1,
+       "craftingChance": 1,
+       "triggeredInspiration": false,
+       "triggeredMulticraft": false,
+       "triggeredResourcefulness": false,
+       "craftResultItems": [
+                 {
+          "itemID": 52327,
+          "itemString": "item:52327::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 2,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52182,
+          "itemString": "item:52182::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52190,
+          "itemString": "item:52190::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         }
+       ],
+       "savedReagents": [
+
+       ]
+      },
+           {
+       "recipeID": 382978,
+       "profit": 712690,
+       "expectedAverageProfit": 13302375,
+       "expectedAverageSavedCosts": 0,
+       "expectedQuality": 1,
+       "craftingChance": 1,
+       "triggeredInspiration": false,
+       "triggeredMulticraft": false,
+       "triggeredResourcefulness": false,
+       "craftResultItems": [
+                 {
+          "itemID": 52327,
+          "itemString": "item:52327::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 3,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52181,
+          "itemString": "item:52181::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         }
+       ],
+       "savedReagents": [
+
+       ]
+      },
+           {
+       "recipeID": 382978,
+       "profit": 1188070,
+       "expectedAverageProfit": 13302375,
+       "expectedAverageSavedCosts": 0,
+       "expectedQuality": 1,
+       "craftingChance": 1,
+       "triggeredInspiration": false,
+       "triggeredMulticraft": false,
+       "triggeredResourcefulness": false,
+       "craftResultItems": [
+                 {
+          "itemID": 52327,
+          "itemString": "item:52327::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52181,
+          "itemString": "item:52181::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52194,
+          "itemString": "item:52194::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52192,
+          "itemString": "item:52192::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         }
+       ],
+       "savedReagents": [
+
+       ]
+      },
+           {
+       "recipeID": 382978,
+       "profit": 839325,
+       "expectedAverageProfit": 13302375,
+       "expectedAverageSavedCosts": 0,
+       "expectedQuality": 1,
+       "craftingChance": 1,
+       "triggeredInspiration": false,
+       "triggeredMulticraft": false,
+       "triggeredResourcefulness": false,
+       "craftResultItems": [
+                 {
+          "itemID": 52327,
+          "itemString": "item:52327::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 2,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52179,
+          "itemString": "item:52179::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52194,
+          "itemString": "item:52194::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         }
+       ],
+       "savedReagents": [
+
+       ]
+      },
+           {
+       "recipeID": 382978,
+       "profit": 280250,
+       "expectedAverageProfit": 13302375,
+       "expectedAverageSavedCosts": 0,
+       "expectedQuality": 1,
+       "craftingChance": 1,
+       "triggeredInspiration": false,
+       "triggeredMulticraft": false,
+       "triggeredResourcefulness": false,
+       "craftResultItems": [
+                 {
+          "itemID": 52327,
+          "itemString": "item:52327::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 2,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52178,
+          "itemString": "item:52178::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         }
+       ],
+       "savedReagents": [
+
+       ]
+      },
+           {
+       "recipeID": 382978,
+       "profit": 550525,
+       "expectedAverageProfit": 13302375,
+       "expectedAverageSavedCosts": 0,
+       "expectedQuality": 1,
+       "craftingChance": 1,
+       "triggeredInspiration": false,
+       "triggeredMulticraft": false,
+       "triggeredResourcefulness": false,
+       "craftResultItems": [
+                 {
+          "itemID": 52327,
+          "itemString": "item:52327::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 3,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52179,
+          "itemString": "item:52179::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         }
+       ],
+       "savedReagents": [
+
+       ]
+      },
+           {
+       "recipeID": 382978,
+       "profit": 231325,
+       "expectedAverageProfit": 13302375,
+       "expectedAverageSavedCosts": 0,
+       "expectedQuality": 1,
+       "craftingChance": 1,
+       "triggeredInspiration": false,
+       "triggeredMulticraft": false,
+       "triggeredResourcefulness": false,
+       "craftResultItems": [
+                 {
+          "itemID": 52327,
+          "itemString": "item:52327::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52177,
+          "itemString": "item:52177::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         }
+       ],
+       "savedReagents": [
+
+       ]
+      },
+           {
+       "recipeID": 382978,
+       "profit": 1092785,
+       "expectedAverageProfit": 13302375,
+       "expectedAverageSavedCosts": 0,
+       "expectedQuality": 1,
+       "craftingChance": 1,
+       "triggeredInspiration": false,
+       "triggeredMulticraft": false,
+       "triggeredResourcefulness": false,
+       "craftResultItems": [
+                 {
+          "itemID": 52327,
+          "itemString": "item:52327::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 2,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52180,
+          "itemString": "item:52180::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52195,
+          "itemString": "item:52195::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         }
+       ],
+       "savedReagents": [
+
+       ]
+      },
+           {
+       "recipeID": 382978,
+       "profit": 915040,
+       "expectedAverageProfit": 13302375,
+       "expectedAverageSavedCosts": 0,
+       "expectedQuality": 1,
+       "craftingChance": 1,
+       "triggeredInspiration": false,
+       "triggeredMulticraft": false,
+       "triggeredResourcefulness": false,
+       "craftResultItems": [
+                 {
+          "itemID": 52327,
+          "itemString": "item:52327::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52181,
+          "itemString": "item:52181::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52193,
+          "itemString": "item:52193::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         }
+       ],
+       "savedReagents": [
+
+       ]
+      },
+           {
+       "recipeID": 382978,
+       "profit": 822795,
+       "expectedAverageProfit": 13302375,
+       "expectedAverageSavedCosts": 0,
+       "expectedQuality": 1,
+       "craftingChance": 1,
+       "triggeredInspiration": false,
+       "triggeredMulticraft": false,
+       "triggeredResourcefulness": false,
+       "craftResultItems": [
+                 {
+          "itemID": 52327,
+          "itemString": "item:52327::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 3,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52177,
+          "itemString": "item:52177::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52190,
+          "itemString": "item:52190::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         }
+       ],
+       "savedReagents": [
+
+       ]
+      },
+           {
+       "recipeID": 382978,
+       "profit": 611705,
+       "expectedAverageProfit": 13302375,
+       "expectedAverageSavedCosts": 0,
+       "expectedQuality": 1,
+       "craftingChance": 1,
+       "triggeredInspiration": false,
+       "triggeredMulticraft": false,
+       "triggeredResourcefulness": false,
+       "craftResultItems": [
+                 {
+          "itemID": 52327,
+          "itemString": "item:52327::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52182,
+          "itemString": "item:52182::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52192,
+          "itemString": "item:52192::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         }
+       ],
+       "savedReagents": [
+
+       ]
+      },
+           {
+       "recipeID": 382978,
+       "profit": 513950,
+       "expectedAverageProfit": 13302375,
+       "expectedAverageSavedCosts": 0,
+       "expectedQuality": 1,
+       "craftingChance": 1,
+       "triggeredInspiration": false,
+       "triggeredMulticraft": false,
+       "triggeredResourcefulness": false,
+       "craftResultItems": [
+                 {
+          "itemID": 52327,
+          "itemString": "item:52327::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 3,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52182,
+          "itemString": "item:52182::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         }
+       ],
+       "savedReagents": [
+
+       ]
+      },
+           {
+       "recipeID": 382978,
+       "profit": 191425,
+       "expectedAverageProfit": 13302375,
+       "expectedAverageSavedCosts": 0,
+       "expectedQuality": 1,
+       "craftingChance": 1,
+       "triggeredInspiration": false,
+       "triggeredMulticraft": false,
+       "triggeredResourcefulness": false,
+       "craftResultItems": [
+                 {
+          "itemID": 52327,
+          "itemString": "item:52327::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52178,
+          "itemString": "item:52178::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         }
+       ],
+       "savedReagents": [
+
+       ]
+      },
+           {
+       "recipeID": 382978,
+       "profit": 716300,
+       "expectedAverageProfit": 13302375,
+       "expectedAverageSavedCosts": 0,
+       "expectedQuality": 1,
+       "craftingChance": 1,
+       "triggeredInspiration": false,
+       "triggeredMulticraft": false,
+       "triggeredResourcefulness": false,
+       "craftResultItems": [
+                 {
+          "itemID": 52327,
+          "itemString": "item:52327::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52182,
+          "itemString": "item:52182::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52193,
+          "itemString": "item:52193::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         }
+       ],
+       "savedReagents": [
+
+       ]
+      },
+           {
+       "recipeID": 382978,
+       "profit": 555655,
+       "expectedAverageProfit": 13302375,
+       "expectedAverageSavedCosts": 0,
+       "expectedQuality": 1,
+       "craftingChance": 1,
+       "triggeredInspiration": false,
+       "triggeredMulticraft": false,
+       "triggeredResourcefulness": false,
+       "craftResultItems": [
+                 {
+          "itemID": 52327,
+          "itemString": "item:52327::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 2,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52178,
+          "itemString": "item:52178::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52192,
+          "itemString": "item:52192::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         }
+       ],
+       "savedReagents": [
+
+       ]
+      },
+           {
+       "recipeID": 382978,
+       "profit": 425125,
+       "expectedAverageProfit": 13302375,
+       "expectedAverageSavedCosts": 0,
+       "expectedQuality": 1,
+       "craftingChance": 1,
+       "triggeredInspiration": false,
+       "triggeredMulticraft": false,
+       "triggeredResourcefulness": false,
+       "craftResultItems": [
+                 {
+          "itemID": 52327,
+          "itemString": "item:52327::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 2,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52182,
+          "itemString": "item:52182::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         }
+       ],
+       "savedReagents": [
+
+       ]
+      },
+           {
+       "recipeID": 382978,
+       "profit": 988095,
+       "expectedAverageProfit": 13302375,
+       "expectedAverageSavedCosts": 0,
+       "expectedQuality": 1,
+       "craftingChance": 1,
+       "triggeredInspiration": false,
+       "triggeredMulticraft": false,
+       "triggeredResourcefulness": false,
+       "craftResultItems": [
+                 {
+          "itemID": 52327,
+          "itemString": "item:52327::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 3,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52181,
+          "itemString": "item:52181::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52192,
+          "itemString": "item:52192::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         }
+       ],
+       "savedReagents": [
+
+       ]
+      },
+           {
+       "recipeID": 382978,
+       "profit": 1090315,
+       "expectedAverageProfit": 13302375,
+       "expectedAverageSavedCosts": 0,
+       "expectedQuality": 1,
+       "craftingChance": 1,
+       "triggeredInspiration": false,
+       "triggeredMulticraft": false,
+       "triggeredResourcefulness": false,
+       "craftResultItems": [
+                 {
+          "itemID": 52327,
+          "itemString": "item:52327::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 3,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52181,
+          "itemString": "item:52181::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52194,
+          "itemString": "item:52194::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         }
+       ],
+       "savedReagents": [
+
+       ]
+      },
+           {
+       "recipeID": 382978,
+       "profit": 408975,
+       "expectedAverageProfit": 13302375,
+       "expectedAverageSavedCosts": 0,
+       "expectedQuality": 1,
+       "craftingChance": 1,
+       "triggeredInspiration": false,
+       "triggeredMulticraft": false,
+       "triggeredResourcefulness": false,
+       "craftResultItems": [
+                 {
+          "itemID": 52327,
+          "itemString": "item:52327::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 3,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52177,
+          "itemString": "item:52177::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         }
+       ],
+       "savedReagents": [
+
+       ]
+      },
+           {
+       "recipeID": 382978,
+       "profit": 713925,
+       "expectedAverageProfit": 13302375,
+       "expectedAverageSavedCosts": 0,
+       "expectedQuality": 1,
+       "craftingChance": 1,
+       "triggeredInspiration": false,
+       "triggeredMulticraft": false,
+       "triggeredResourcefulness": false,
+       "craftResultItems": [
+                 {
+          "itemID": 52327,
+          "itemString": "item:52327::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52182,
+          "itemString": "item:52182::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52194,
+          "itemString": "item:52194::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         }
+       ],
+       "savedReagents": [
+
+       ]
+      },
+           {
+       "recipeID": 382978,
+       "profit": 797335,
+       "expectedAverageProfit": 13302375,
+       "expectedAverageSavedCosts": 0,
+       "expectedQuality": 1,
+       "craftingChance": 1,
+       "triggeredInspiration": false,
+       "triggeredMulticraft": false,
+       "triggeredResourcefulness": false,
+       "craftResultItems": [
+                 {
+          "itemID": 52327,
+          "itemString": "item:52327::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52178,
+          "itemString": "item:52178::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52195,
+          "itemString": "item:52195::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         }
+       ],
+       "savedReagents": [
+
+       ]
+      },
+           {
+       "recipeID": 382978,
+       "profit": 1505180,
+       "expectedAverageProfit": 13302375,
+       "expectedAverageSavedCosts": 0,
+       "expectedQuality": 1,
+       "craftingChance": 1,
+       "triggeredInspiration": false,
+       "triggeredMulticraft": false,
+       "triggeredResourcefulness": false,
+       "craftResultItems": [
+                 {
+          "itemID": 52327,
+          "itemString": "item:52327::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 2,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52181,
+          "itemString": "item:52181::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52192,
+          "itemString": "item:52192::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52195,
+          "itemString": "item:52195::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         }
+       ],
+       "savedReagents": [
+
+       ]
+      },
+           {
+       "recipeID": 382978,
+       "profit": 575700,
+       "expectedAverageProfit": 13302375,
+       "expectedAverageSavedCosts": 0,
+       "expectedQuality": 1,
+       "craftingChance": 1,
+       "triggeredInspiration": false,
+       "triggeredMulticraft": false,
+       "triggeredResourcefulness": false,
+       "craftResultItems": [
+                 {
+          "itemID": 52327,
+          "itemString": "item:52327::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 3,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52180,
+          "itemString": "item:52180::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         }
+       ],
+       "savedReagents": [
+
+       ]
+      },
+           {
+       "recipeID": 382978,
+       "profit": 569050,
+       "expectedAverageProfit": 13302375,
+       "expectedAverageSavedCosts": 0,
+       "expectedQuality": 1,
+       "craftingChance": 1,
+       "triggeredInspiration": false,
+       "triggeredMulticraft": false,
+       "triggeredResourcefulness": false,
+       "craftResultItems": [
+                 {
+          "itemID": 52327,
+          "itemString": "item:52327::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52178,
+          "itemString": "item:52178::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52194,
+          "itemString": "item:52194::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         }
+       ],
+       "savedReagents": [
+
+       ]
+      },
+           {
+       "recipeID": 382978,
+       "profit": 550525,
+       "expectedAverageProfit": 13302375,
+       "expectedAverageSavedCosts": 0,
+       "expectedQuality": 1,
+       "craftingChance": 1,
+       "triggeredInspiration": false,
+       "triggeredMulticraft": false,
+       "triggeredResourcefulness": false,
+       "craftResultItems": [
+                 {
+          "itemID": 52327,
+          "itemString": "item:52327::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 3,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52179,
+          "itemString": "item:52179::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         }
+       ],
+       "savedReagents": [
+
+       ]
+      },
+           {
+       "recipeID": 382978,
+       "profit": 461700,
+       "expectedAverageProfit": 13302375,
+       "expectedAverageSavedCosts": 0,
+       "expectedQuality": 1,
+       "craftingChance": 1,
+       "triggeredInspiration": false,
+       "triggeredMulticraft": false,
+       "triggeredResourcefulness": false,
+       "craftResultItems": [
+                 {
+          "itemID": 52327,
+          "itemString": "item:52327::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 2,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52179,
+          "itemString": "item:52179::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         }
+       ],
+       "savedReagents": [
+
+       ]
+      },
+           {
+       "recipeID": 382978,
+       "profit": 408975,
+       "expectedAverageProfit": 13302375,
+       "expectedAverageSavedCosts": 0,
+       "expectedQuality": 1,
+       "craftingChance": 1,
+       "triggeredInspiration": false,
+       "triggeredMulticraft": false,
+       "triggeredResourcefulness": false,
+       "craftResultItems": [
+                 {
+          "itemID": 52327,
+          "itemString": "item:52327::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 3,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52177,
+          "itemString": "item:52177::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         }
+       ],
+       "savedReagents": [
+
+       ]
+      },
+           {
+       "recipeID": 382978,
+       "profit": 623865,
+       "expectedAverageProfit": 13302375,
+       "expectedAverageSavedCosts": 0,
+       "expectedQuality": 1,
+       "craftingChance": 1,
+       "triggeredInspiration": false,
+       "triggeredMulticraft": false,
+       "triggeredResourcefulness": false,
+       "craftResultItems": [
+                 {
+          "itemID": 52327,
+          "itemString": "item:52327::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 2,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52181,
+          "itemString": "item:52181::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         }
+       ],
+       "savedReagents": [
+
+       ]
+      },
+           {
+       "recipeID": 382978,
+       "profit": 797335,
+       "expectedAverageProfit": 13302375,
+       "expectedAverageSavedCosts": 0,
+       "expectedQuality": 1,
+       "craftingChance": 1,
+       "triggeredInspiration": false,
+       "triggeredMulticraft": false,
+       "triggeredResourcefulness": false,
+       "craftResultItems": [
+                 {
+          "itemID": 52327,
+          "itemString": "item:52327::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52178,
+          "itemString": "item:52178::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52195,
+          "itemString": "item:52195::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         }
+       ],
+       "savedReagents": [
+
+       ]
+      },
+           {
+       "recipeID": 382978,
+       "profit": 733970,
+       "expectedAverageProfit": 13302375,
+       "expectedAverageSavedCosts": 0,
+       "expectedQuality": 1,
+       "craftingChance": 1,
+       "triggeredInspiration": false,
+       "triggeredMulticraft": false,
+       "triggeredResourcefulness": false,
+       "craftResultItems": [
+                 {
+          "itemID": 52327,
+          "itemString": "item:52327::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 2,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52177,
+          "itemString": "item:52177::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52190,
+          "itemString": "item:52190::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         }
+       ],
+       "savedReagents": [
+
+       ]
+      },
+           {
+       "recipeID": 382978,
+       "profit": 964345,
+       "expectedAverageProfit": 13302375,
+       "expectedAverageSavedCosts": 0,
+       "expectedQuality": 1,
+       "craftingChance": 1,
+       "triggeredInspiration": false,
+       "triggeredMulticraft": false,
+       "triggeredResourcefulness": false,
+       "craftResultItems": [
+                 {
+          "itemID": 52327,
+          "itemString": "item:52327::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 3,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52179,
+          "itemString": "item:52179::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52190,
+          "itemString": "item:52190::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         }
+       ],
+       "savedReagents": [
+
+       ]
+      },
+           {
+       "recipeID": 382978,
+       "profit": 1092690,
+       "expectedAverageProfit": 13302375,
+       "expectedAverageSavedCosts": 0,
+       "expectedQuality": 1,
+       "craftingChance": 1,
+       "triggeredInspiration": false,
+       "triggeredMulticraft": false,
+       "triggeredResourcefulness": false,
+       "craftResultItems": [
+                 {
+          "itemID": 52327,
+          "itemString": "item:52327::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 3,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52181,
+          "itemString": "item:52181::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52193,
+          "itemString": "item:52193::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         }
+       ],
+       "savedReagents": [
+
+       ]
+      },
+           {
+       "recipeID": 382978,
+       "profit": 886160,
+       "expectedAverageProfit": 13302375,
+       "expectedAverageSavedCosts": 0,
+       "expectedQuality": 1,
+       "craftingChance": 1,
+       "triggeredInspiration": false,
+       "triggeredMulticraft": false,
+       "triggeredResourcefulness": false,
+       "craftResultItems": [
+                 {
+          "itemID": 52327,
+          "itemString": "item:52327::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 2,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52178,
+          "itemString": "item:52178::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52195,
+          "itemString": "item:52195::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         }
+       ],
+       "savedReagents": [
+
+       ]
+      },
+           {
+       "recipeID": 382978,
+       "profit": 712690,
+       "expectedAverageProfit": 13302375,
+       "expectedAverageSavedCosts": 0,
+       "expectedQuality": 1,
+       "craftingChance": 1,
+       "triggeredInspiration": false,
+       "triggeredMulticraft": false,
+       "triggeredResourcefulness": false,
+       "craftResultItems": [
+                 {
+          "itemID": 52327,
+          "itemString": "item:52327::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 3,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52181,
+          "itemString": "item:52181::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         }
+       ],
+       "savedReagents": [
+
+       ]
+      },
+           {
+       "recipeID": 382978,
+       "profit": 930525,
+       "expectedAverageProfit": 13302375,
+       "expectedAverageSavedCosts": 0,
+       "expectedQuality": 1,
+       "craftingChance": 1,
+       "triggeredInspiration": false,
+       "triggeredMulticraft": false,
+       "triggeredResourcefulness": false,
+       "craftResultItems": [
+                 {
+          "itemID": 52327,
+          "itemString": "item:52327::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 3,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52179,
+          "itemString": "item:52179::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52193,
+          "itemString": "item:52193::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         }
+       ],
+       "savedReagents": [
+
+       ]
+      },
+           {
+       "recipeID": 382978,
+       "profit": 1273950,
+       "expectedAverageProfit": 13302375,
+       "expectedAverageSavedCosts": 0,
+       "expectedQuality": 1,
+       "craftingChance": 1,
+       "triggeredInspiration": false,
+       "triggeredMulticraft": false,
+       "triggeredResourcefulness": false,
+       "craftResultItems": [
+                 {
+          "itemID": 52327,
+          "itemString": "item:52327::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 3,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52182,
+          "itemString": "item:52182::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52193,
+          "itemString": "item:52193::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 2,
+          "quantityMulticraft": 0
+         }
+       ],
+       "savedReagents": [
+
+       ]
+      },
+           {
+       "recipeID": 382978,
+       "profit": 513950,
+       "expectedAverageProfit": 13302375,
+       "expectedAverageSavedCosts": 0,
+       "expectedQuality": 1,
+       "craftingChance": 1,
+       "triggeredInspiration": false,
+       "triggeredMulticraft": false,
+       "triggeredResourcefulness": false,
+       "craftResultItems": [
+                 {
+          "itemID": 52327,
+          "itemString": "item:52327::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 3,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52182,
+          "itemString": "item:52182::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         }
+       ],
+       "savedReagents": [
+
+       ]
+      },
+           {
+       "recipeID": 382978,
+       "profit": 280250,
+       "expectedAverageProfit": 13302375,
+       "expectedAverageSavedCosts": 0,
+       "expectedQuality": 1,
+       "craftingChance": 1,
+       "triggeredInspiration": false,
+       "triggeredMulticraft": false,
+       "triggeredResourcefulness": false,
+       "craftResultItems": [
+                 {
+          "itemID": 52327,
+          "itemString": "item:52327::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 2,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52178,
+          "itemString": "item:52178::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         }
+       ],
+       "savedReagents": [
+
+       ]
+      },
+           {
+       "recipeID": 382978,
+       "profit": 788975,
+       "expectedAverageProfit": 13302375,
+       "expectedAverageSavedCosts": 0,
+       "expectedQuality": 1,
+       "craftingChance": 1,
+       "triggeredInspiration": false,
+       "triggeredMulticraft": false,
+       "triggeredResourcefulness": false,
+       "craftResultItems": [
+                 {
+          "itemID": 52327,
+          "itemString": "item:52327::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 3,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52177,
+          "itemString": "item:52177::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52193,
+          "itemString": "item:52193::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         }
+       ],
+       "savedReagents": [
+
+       ]
+      },
+           {
+       "recipeID": 382978,
+       "profit": 320150,
+       "expectedAverageProfit": 13302375,
+       "expectedAverageSavedCosts": 0,
+       "expectedQuality": 1,
+       "craftingChance": 1,
+       "triggeredInspiration": false,
+       "triggeredMulticraft": false,
+       "triggeredResourcefulness": false,
+       "craftResultItems": [
+                 {
+          "itemID": 52327,
+          "itemString": "item:52327::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 2,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52177,
+          "itemString": "item:52177::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         }
+       ],
+       "savedReagents": [
+
+       ]
+      },
+           {
+       "recipeID": 382978,
+       "profit": 398050,
+       "expectedAverageProfit": 13302375,
+       "expectedAverageSavedCosts": 0,
+       "expectedQuality": 1,
+       "craftingChance": 1,
+       "triggeredInspiration": false,
+       "triggeredMulticraft": false,
+       "triggeredResourcefulness": false,
+       "craftResultItems": [
+                 {
+          "itemID": 52327,
+          "itemString": "item:52327::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52180,
+          "itemString": "item:52180::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         }
+       ],
+       "savedReagents": [
+
+       ]
+      },
+           {
+       "recipeID": 382978,
+       "profit": 799330,
+       "expectedAverageProfit": 13302375,
+       "expectedAverageSavedCosts": 0,
+       "expectedQuality": 1,
+       "craftingChance": 1,
+       "triggeredInspiration": false,
+       "triggeredMulticraft": false,
+       "triggeredResourcefulness": false,
+       "craftResultItems": [
+                 {
+          "itemID": 52327,
+          "itemString": "item:52327::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52178,
+          "itemString": "item:52178::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52192,
+          "itemString": "item:52192::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52191,
+          "itemString": "item:52191::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         }
+       ],
+       "savedReagents": [
+
+       ]
+      },
+           {
+       "recipeID": 382978,
+       "profit": 875520,
+       "expectedAverageProfit": 13302375,
+       "expectedAverageSavedCosts": 0,
+       "expectedQuality": 1,
+       "craftingChance": 1,
+       "triggeredInspiration": false,
+       "triggeredMulticraft": false,
+       "triggeredResourcefulness": false,
+       "craftResultItems": [
+                 {
+          "itemID": 52327,
+          "itemString": "item:52327::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 2,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52179,
+          "itemString": "item:52179::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52190,
+          "itemString": "item:52190::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         }
+       ],
+       "savedReagents": [
+
+       ]
+      },
+           {
+       "recipeID": 382978,
+       "profit": 988095,
+       "expectedAverageProfit": 13302375,
+       "expectedAverageSavedCosts": 0,
+       "expectedQuality": 1,
+       "craftingChance": 1,
+       "triggeredInspiration": false,
+       "triggeredMulticraft": false,
+       "triggeredResourcefulness": false,
+       "craftResultItems": [
+                 {
+          "itemID": 52327,
+          "itemString": "item:52327::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 3,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52181,
+          "itemString": "item:52181::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52192,
+          "itemString": "item:52192::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         }
+       ],
+       "savedReagents": [
+
+       ]
+      },
+           {
+       "recipeID": 382978,
+       "profit": 660250,
+       "expectedAverageProfit": 13302375,
+       "expectedAverageSavedCosts": 0,
+       "expectedQuality": 1,
+       "craftingChance": 1,
+       "triggeredInspiration": false,
+       "triggeredMulticraft": false,
+       "triggeredResourcefulness": false,
+       "craftResultItems": [
+                 {
+          "itemID": 52327,
+          "itemString": "item:52327::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 2,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52178,
+          "itemString": "item:52178::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52193,
+          "itemString": "item:52193::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         }
+       ],
+       "savedReagents": [
+
+       ]
+      },
+           {
+       "recipeID": 382978,
+       "profit": 837235,
+       "expectedAverageProfit": 13302375,
+       "expectedAverageSavedCosts": 0,
+       "expectedQuality": 1,
+       "craftingChance": 1,
+       "triggeredInspiration": false,
+       "triggeredMulticraft": false,
+       "triggeredResourcefulness": false,
+       "craftResultItems": [
+                 {
+          "itemID": 52327,
+          "itemString": "item:52327::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52177,
+          "itemString": "item:52177::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52195,
+          "itemString": "item:52195::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         }
+       ],
+       "savedReagents": [
+
+       ]
+      },
+           {
+       "recipeID": 382978,
+       "profit": 191425,
+       "expectedAverageProfit": 13302375,
+       "expectedAverageSavedCosts": 0,
+       "expectedQuality": 1,
+       "craftingChance": 1,
+       "triggeredInspiration": false,
+       "triggeredMulticraft": false,
+       "triggeredResourcefulness": false,
+       "craftResultItems": [
+                 {
+          "itemID": 52327,
+          "itemString": "item:52327::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52178,
+          "itemString": "item:52178::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         }
+       ],
+       "savedReagents": [
+
+       ]
+      },
+           {
+       "recipeID": 382978,
+       "profit": 486875,
+       "expectedAverageProfit": 13302375,
+       "expectedAverageSavedCosts": 0,
+       "expectedQuality": 1,
+       "craftingChance": 1,
+       "triggeredInspiration": false,
+       "triggeredMulticraft": false,
+       "triggeredResourcefulness": false,
+       "craftResultItems": [
+                 {
+          "itemID": 52327,
+          "itemString": "item:52327::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 2,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52180,
+          "itemString": "item:52180::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         }
+       ],
+       "savedReagents": [
+
+       ]
+      },
+           {
+       "recipeID": 382978,
+       "profit": 712690,
+       "expectedAverageProfit": 13302375,
+       "expectedAverageSavedCosts": 0,
+       "expectedQuality": 1,
+       "craftingChance": 1,
+       "triggeredInspiration": false,
+       "triggeredMulticraft": false,
+       "triggeredResourcefulness": false,
+       "craftResultItems": [
+                 {
+          "itemID": 52327,
+          "itemString": "item:52327::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 3,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52181,
+          "itemString": "item:52181::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         }
+       ],
+       "savedReagents": [
+
+       ]
+      },
+           {
+       "recipeID": 382978,
+       "profit": 372875,
+       "expectedAverageProfit": 13302375,
+       "expectedAverageSavedCosts": 0,
+       "expectedQuality": 1,
+       "craftingChance": 1,
+       "triggeredInspiration": false,
+       "triggeredMulticraft": false,
+       "triggeredResourcefulness": false,
+       "craftResultItems": [
+                 {
+          "itemID": 52327,
+          "itemString": "item:52327::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52179,
+          "itemString": "item:52179::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         }
+       ],
+       "savedReagents": [
+
+       ]
+      },
+           {
+       "recipeID": 382978,
+       "profit": 956365,
+       "expectedAverageProfit": 13302375,
+       "expectedAverageSavedCosts": 0,
+       "expectedQuality": 1,
+       "craftingChance": 1,
+       "triggeredInspiration": false,
+       "triggeredMulticraft": false,
+       "triggeredResourcefulness": false,
+       "craftResultItems": [
+                 {
+          "itemID": 52327,
+          "itemString": "item:52327::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 2,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52181,
+          "itemString": "item:52181::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52191,
+          "itemString": "item:52191::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         }
+       ],
+       "savedReagents": [
+
+       ]
+      },
+           {
+       "recipeID": 382978,
+       "profit": 673455,
+       "expectedAverageProfit": 13302375,
+       "expectedAverageSavedCosts": 0,
+       "expectedQuality": 1,
+       "craftingChance": 1,
+       "triggeredInspiration": false,
+       "triggeredMulticraft": false,
+       "triggeredResourcefulness": false,
+       "craftResultItems": [
+                 {
+          "itemID": 52327,
+          "itemString": "item:52327::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52180,
+          "itemString": "item:52180::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52192,
+          "itemString": "item:52192::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         }
+       ],
+       "savedReagents": [
+
+       ]
+      },
+           {
+       "recipeID": 382978,
+       "profit": 398050,
+       "expectedAverageProfit": 13302375,
+       "expectedAverageSavedCosts": 0,
+       "expectedQuality": 1,
+       "craftingChance": 1,
+       "triggeredInspiration": false,
+       "triggeredMulticraft": false,
+       "triggeredResourcefulness": false,
+       "craftResultItems": [
+                 {
+          "itemID": 52327,
+          "itemString": "item:52327::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52180,
+          "itemString": "item:52180::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         }
+       ],
+       "savedReagents": [
+
+       ]
+      },
+           {
+       "recipeID": 382978,
+       "profit": 712690,
+       "expectedAverageProfit": 13302375,
+       "expectedAverageSavedCosts": 0,
+       "expectedQuality": 1,
+       "craftingChance": 1,
+       "triggeredInspiration": false,
+       "triggeredMulticraft": false,
+       "triggeredResourcefulness": false,
+       "craftResultItems": [
+                 {
+          "itemID": 52327,
+          "itemString": "item:52327::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 3,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52181,
+          "itemString": "item:52181::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         }
+       ],
+       "savedReagents": [
+
+       ]
+      },
+           {
+       "recipeID": 382978,
+       "profit": 982870,
+       "expectedAverageProfit": 13302375,
+       "expectedAverageSavedCosts": 0,
+       "expectedQuality": 1,
+       "craftingChance": 1,
+       "triggeredInspiration": false,
+       "triggeredMulticraft": false,
+       "triggeredResourcefulness": false,
+       "craftResultItems": [
+                 {
+          "itemID": 52327,
+          "itemString": "item:52327::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52178,
+          "itemString": "item:52178::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52194,
+          "itemString": "item:52194::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52190,
+          "itemString": "item:52190::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         }
+       ],
+       "savedReagents": [
+
+       ]
+      },
+           {
+       "recipeID": 382978,
+       "profit": 398050,
+       "expectedAverageProfit": 13302375,
+       "expectedAverageSavedCosts": 0,
+       "expectedQuality": 1,
+       "craftingChance": 1,
+       "triggeredInspiration": false,
+       "triggeredMulticraft": false,
+       "triggeredResourcefulness": false,
+       "craftResultItems": [
+                 {
+          "itemID": 52327,
+          "itemString": "item:52327::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52180,
+          "itemString": "item:52180::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         }
+       ],
+       "savedReagents": [
+
+       ]
+      },
+           {
+       "recipeID": 382978,
+       "profit": 486875,
+       "expectedAverageProfit": 13302375,
+       "expectedAverageSavedCosts": 0,
+       "expectedQuality": 1,
+       "craftingChance": 1,
+       "triggeredInspiration": false,
+       "triggeredMulticraft": false,
+       "triggeredResourcefulness": false,
+       "craftResultItems": [
+                 {
+          "itemID": 52327,
+          "itemString": "item:52327::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 2,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52180,
+          "itemString": "item:52180::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         }
+       ],
+       "savedReagents": [
+
+       ]
+      },
+           {
+       "recipeID": 382978,
+       "profit": 231325,
+       "expectedAverageProfit": 13302375,
+       "expectedAverageSavedCosts": 0,
+       "expectedQuality": 1,
+       "craftingChance": 1,
+       "triggeredInspiration": false,
+       "triggeredMulticraft": false,
+       "triggeredResourcefulness": false,
+       "craftResultItems": [
+                 {
+          "itemID": 52327,
+          "itemString": "item:52327::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52177,
+          "itemString": "item:52177::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         }
+       ],
+       "savedReagents": [
+
+       ]
+      },
+           {
+       "recipeID": 382978,
+       "profit": 191425,
+       "expectedAverageProfit": 13302375,
+       "expectedAverageSavedCosts": 0,
+       "expectedQuality": 1,
+       "craftingChance": 1,
+       "triggeredInspiration": false,
+       "triggeredMulticraft": false,
+       "triggeredResourcefulness": false,
+       "craftResultItems": [
+                 {
+          "itemID": 52327,
+          "itemString": "item:52327::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52178,
+          "itemString": "item:52178::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         }
+       ],
+       "savedReagents": [
+
+       ]
+      },
+           {
+       "recipeID": 382978,
+       "profit": 900695,
+       "expectedAverageProfit": 13302375,
+       "expectedAverageSavedCosts": 0,
+       "expectedQuality": 1,
+       "craftingChance": 1,
+       "triggeredInspiration": false,
+       "triggeredMulticraft": false,
+       "triggeredResourcefulness": false,
+       "craftResultItems": [
+                 {
+          "itemID": 52327,
+          "itemString": "item:52327::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 2,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52180,
+          "itemString": "item:52180::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52190,
+          "itemString": "item:52190::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         }
+       ],
+       "savedReagents": [
+
+       ]
+      },
+           {
+       "recipeID": 382978,
+       "profit": 988095,
+       "expectedAverageProfit": 13302375,
+       "expectedAverageSavedCosts": 0,
+       "expectedQuality": 1,
+       "craftingChance": 1,
+       "triggeredInspiration": false,
+       "triggeredMulticraft": false,
+       "triggeredResourcefulness": false,
+       "craftResultItems": [
+                 {
+          "itemID": 52327,
+          "itemString": "item:52327::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 3,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52181,
+          "itemString": "item:52181::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52192,
+          "itemString": "item:52192::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         }
+       ],
+       "savedReagents": [
+
+       ]
+      },
+           {
+       "recipeID": 382978,
+       "profit": 372875,
+       "expectedAverageProfit": 13302375,
+       "expectedAverageSavedCosts": 0,
+       "expectedQuality": 1,
+       "craftingChance": 1,
+       "triggeredInspiration": false,
+       "triggeredMulticraft": false,
+       "triggeredResourcefulness": false,
+       "craftResultItems": [
+                 {
+          "itemID": 52327,
+          "itemString": "item:52327::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52179,
+          "itemString": "item:52179::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         }
+       ],
+       "savedReagents": [
+
+       ]
+      },
+           {
+       "recipeID": 382978,
+       "profit": 867540,
+       "expectedAverageProfit": 13302375,
+       "expectedAverageSavedCosts": 0,
+       "expectedQuality": 1,
+       "craftingChance": 1,
+       "triggeredInspiration": false,
+       "triggeredMulticraft": false,
+       "triggeredResourcefulness": false,
+       "craftResultItems": [
+                 {
+          "itemID": 52327,
+          "itemString": "item:52327::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52181,
+          "itemString": "item:52181::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52191,
+          "itemString": "item:52191::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         }
+       ],
+       "savedReagents": [
+
+       ]
+      },
+           {
+       "recipeID": 382978,
+       "profit": 1229775,
+       "expectedAverageProfit": 13302375,
+       "expectedAverageSavedCosts": 0,
+       "expectedQuality": 1,
+       "craftingChance": 1,
+       "triggeredInspiration": false,
+       "triggeredMulticraft": false,
+       "triggeredResourcefulness": false,
+       "craftResultItems": [
+                 {
+          "itemID": 52327,
+          "itemString": "item:52327::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 2,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52181,
+          "itemString": "item:52181::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52195,
+          "itemString": "item:52195::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         }
+       ],
+       "savedReagents": [
+
+       ]
+      },
+           {
+       "recipeID": 382978,
+       "profit": 712690,
+       "expectedAverageProfit": 13302375,
+       "expectedAverageSavedCosts": 0,
+       "expectedQuality": 1,
+       "craftingChance": 1,
+       "triggeredInspiration": false,
+       "triggeredMulticraft": false,
+       "triggeredResourcefulness": false,
+       "craftResultItems": [
+                 {
+          "itemID": 52327,
+          "itemString": "item:52327::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 3,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52181,
+          "itemString": "item:52181::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         }
+       ],
+       "savedReagents": [
+
+       ]
+      },
+           {
+       "recipeID": 382978,
+       "profit": 789355,
+       "expectedAverageProfit": 13302375,
+       "expectedAverageSavedCosts": 0,
+       "expectedQuality": 1,
+       "craftingChance": 1,
+       "triggeredInspiration": false,
+       "triggeredMulticraft": false,
+       "triggeredResourcefulness": false,
+       "craftResultItems": [
+                 {
+          "itemID": 52327,
+          "itemString": "item:52327::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 3,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52182,
+          "itemString": "item:52182::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52192,
+          "itemString": "item:52192::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         }
+       ],
+       "savedReagents": [
+
+       ]
+      },
+           {
+       "recipeID": 382978,
+       "profit": 408975,
+       "expectedAverageProfit": 13302375,
+       "expectedAverageSavedCosts": 0,
+       "expectedQuality": 1,
+       "craftingChance": 1,
+       "triggeredInspiration": false,
+       "triggeredMulticraft": false,
+       "triggeredResourcefulness": false,
+       "craftResultItems": [
+                 {
+          "itemID": 52327,
+          "itemString": "item:52327::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 3,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52177,
+          "itemString": "item:52177::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         }
+       ],
+       "savedReagents": [
+
+       ]
+      },
+           {
+       "recipeID": 382978,
+       "profit": 408975,
+       "expectedAverageProfit": 13302375,
+       "expectedAverageSavedCosts": 0,
+       "expectedQuality": 1,
+       "craftingChance": 1,
+       "triggeredInspiration": false,
+       "triggeredMulticraft": false,
+       "triggeredResourcefulness": false,
+       "craftResultItems": [
+                 {
+          "itemID": 52327,
+          "itemString": "item:52327::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 3,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52177,
+          "itemString": "item:52177::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         }
+       ],
+       "savedReagents": [
+
+       ]
+      },
+           {
+       "recipeID": 382978,
+       "profit": 550525,
+       "expectedAverageProfit": 13302375,
+       "expectedAverageSavedCosts": 0,
+       "expectedQuality": 1,
+       "craftingChance": 1,
+       "triggeredInspiration": false,
+       "triggeredMulticraft": false,
+       "triggeredResourcefulness": false,
+       "craftResultItems": [
+                 {
+          "itemID": 52327,
+          "itemString": "item:52327::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 3,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52179,
+          "itemString": "item:52179::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         }
+       ],
+       "savedReagents": [
+
+       ]
+      },
+           {
+       "recipeID": 382978,
+       "profit": 988095,
+       "expectedAverageProfit": 13302375,
+       "expectedAverageSavedCosts": 0,
+       "expectedQuality": 1,
+       "craftingChance": 1,
+       "triggeredInspiration": false,
+       "triggeredMulticraft": false,
+       "triggeredResourcefulness": false,
+       "craftResultItems": [
+                 {
+          "itemID": 52327,
+          "itemString": "item:52327::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 3,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52181,
+          "itemString": "item:52181::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52192,
+          "itemString": "item:52192::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         }
+       ],
+       "savedReagents": [
+
+       ]
+      },
+           {
+       "recipeID": 382978,
+       "profit": 660250,
+       "expectedAverageProfit": 13302375,
+       "expectedAverageSavedCosts": 0,
+       "expectedQuality": 1,
+       "craftingChance": 1,
+       "triggeredInspiration": false,
+       "triggeredMulticraft": false,
+       "triggeredResourcefulness": false,
+       "craftResultItems": [
+                 {
+          "itemID": 52327,
+          "itemString": "item:52327::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 2,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52178,
+          "itemString": "item:52178::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52193,
+          "itemString": "item:52193::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         }
+       ],
+       "savedReagents": [
+
+       ]
+      },
+           {
+       "recipeID": 382978,
+       "profit": 191425,
+       "expectedAverageProfit": 13302375,
+       "expectedAverageSavedCosts": 0,
+       "expectedQuality": 1,
+       "craftingChance": 1,
+       "triggeredInspiration": false,
+       "triggeredMulticraft": false,
+       "triggeredResourcefulness": false,
+       "craftResultItems": [
+                 {
+          "itemID": 52327,
+          "itemString": "item:52327::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52178,
+          "itemString": "item:52178::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         }
+       ],
+       "savedReagents": [
+
+       ]
+      },
+           {
+       "recipeID": 382978,
+       "profit": 811870,
+       "expectedAverageProfit": 13302375,
+       "expectedAverageSavedCosts": 0,
+       "expectedQuality": 1,
+       "craftingChance": 1,
+       "triggeredInspiration": false,
+       "triggeredMulticraft": false,
+       "triggeredResourcefulness": false,
+       "craftResultItems": [
+                 {
+          "itemID": 52327,
+          "itemString": "item:52327::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52180,
+          "itemString": "item:52180::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52190,
+          "itemString": "item:52190::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         }
+       ],
+       "savedReagents": [
+
+       ]
+      },
+           {
+       "recipeID": 382978,
+       "profit": 930525,
+       "expectedAverageProfit": 13302375,
+       "expectedAverageSavedCosts": 0,
+       "expectedQuality": 1,
+       "craftingChance": 1,
+       "triggeredInspiration": false,
+       "triggeredMulticraft": false,
+       "triggeredResourcefulness": false,
+       "craftResultItems": [
+                 {
+          "itemID": 52327,
+          "itemString": "item:52327::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 3,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52179,
+          "itemString": "item:52179::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52193,
+          "itemString": "item:52193::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         }
+       ],
+       "savedReagents": [
+
+       ]
+      },
+           {
+       "recipeID": 382978,
+       "profit": 713925,
+       "expectedAverageProfit": 13302375,
+       "expectedAverageSavedCosts": 0,
+       "expectedQuality": 1,
+       "craftingChance": 1,
+       "triggeredInspiration": false,
+       "triggeredMulticraft": false,
+       "triggeredResourcefulness": false,
+       "craftResultItems": [
+                 {
+          "itemID": 52327,
+          "itemString": "item:52327::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52182,
+          "itemString": "item:52182::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52194,
+          "itemString": "item:52194::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         }
+       ],
+       "savedReagents": [
+
+       ]
+      },
+           {
+       "recipeID": 382978,
+       "profit": 611705,
+       "expectedAverageProfit": 13302375,
+       "expectedAverageSavedCosts": 0,
+       "expectedQuality": 1,
+       "craftingChance": 1,
+       "triggeredInspiration": false,
+       "triggeredMulticraft": false,
+       "triggeredResourcefulness": false,
+       "craftResultItems": [
+                 {
+          "itemID": 52327,
+          "itemString": "item:52327::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52182,
+          "itemString": "item:52182::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52192,
+          "itemString": "item:52192::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         }
+       ],
+       "savedReagents": [
+
+       ]
+      },
+           {
+       "recipeID": 382978,
+       "profit": 1285825,
+       "expectedAverageProfit": 13302375,
+       "expectedAverageSavedCosts": 0,
+       "expectedQuality": 1,
+       "craftingChance": 1,
+       "triggeredInspiration": false,
+       "triggeredMulticraft": false,
+       "triggeredResourcefulness": false,
+       "craftResultItems": [
+                 {
+          "itemID": 52327,
+          "itemString": "item:52327::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 3,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52180,
+          "itemString": "item:52180::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52194,
+          "itemString": "item:52194::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52191,
+          "itemString": "item:52191::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         }
+       ],
+       "savedReagents": [
+
+       ]
+      },
+           {
+       "recipeID": 382978,
+       "profit": 612750,
+       "expectedAverageProfit": 13302375,
+       "expectedAverageSavedCosts": 0,
+       "expectedQuality": 1,
+       "craftingChance": 1,
+       "triggeredInspiration": false,
+       "triggeredMulticraft": false,
+       "triggeredResourcefulness": false,
+       "craftResultItems": [
+                 {
+          "itemID": 52327,
+          "itemString": "item:52327::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 2,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52178,
+          "itemString": "item:52178::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52191,
+          "itemString": "item:52191::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         }
+       ],
+       "savedReagents": [
+
+       ]
+      },
+           {
+       "recipeID": 382978,
+       "profit": 575700,
+       "expectedAverageProfit": 13302375,
+       "expectedAverageSavedCosts": 0,
+       "expectedQuality": 1,
+       "craftingChance": 1,
+       "triggeredInspiration": false,
+       "triggeredMulticraft": false,
+       "triggeredResourcefulness": false,
+       "craftResultItems": [
+                 {
+          "itemID": 52327,
+          "itemString": "item:52327::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 3,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52180,
+          "itemString": "item:52180::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         }
+       ],
+       "savedReagents": [
+
+       ]
+      },
+           {
+       "recipeID": 382978,
+       "profit": 408975,
+       "expectedAverageProfit": 13302375,
+       "expectedAverageSavedCosts": 0,
+       "expectedQuality": 1,
+       "craftingChance": 1,
+       "triggeredInspiration": false,
+       "triggeredMulticraft": false,
+       "triggeredResourcefulness": false,
+       "craftResultItems": [
+                 {
+          "itemID": 52327,
+          "itemString": "item:52327::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 3,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52177,
+          "itemString": "item:52177::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         }
+       ],
+       "savedReagents": [
+
+       ]
+      },
+           {
+       "recipeID": 382978,
+       "profit": 535040,
+       "expectedAverageProfit": 13302375,
+       "expectedAverageSavedCosts": 0,
+       "expectedQuality": 1,
+       "craftingChance": 1,
+       "triggeredInspiration": false,
+       "triggeredMulticraft": false,
+       "triggeredResourcefulness": false,
+       "craftResultItems": [
+                 {
+          "itemID": 52327,
+          "itemString": "item:52327::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52181,
+          "itemString": "item:52181::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         }
+       ],
+       "savedReagents": [
+
+       ]
+      },
+           {
+       "recipeID": 382978,
+       "profit": 231325,
+       "expectedAverageProfit": 13302375,
+       "expectedAverageSavedCosts": 0,
+       "expectedQuality": 1,
+       "craftingChance": 1,
+       "triggeredInspiration": false,
+       "triggeredMulticraft": false,
+       "triggeredResourcefulness": false,
+       "craftResultItems": [
+                 {
+          "itemID": 52327,
+          "itemString": "item:52327::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52177,
+          "itemString": "item:52177::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         }
+       ],
+       "savedReagents": [
+
+       ]
+      },
+           {
+       "recipeID": 382978,
+       "profit": 1299980,
+       "expectedAverageProfit": 13302375,
+       "expectedAverageSavedCosts": 0,
+       "expectedQuality": 1,
+       "craftingChance": 1,
+       "triggeredInspiration": false,
+       "triggeredMulticraft": false,
+       "triggeredResourcefulness": false,
+       "craftResultItems": [
+                 {
+          "itemID": 52327,
+          "itemString": "item:52327::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 2,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52178,
+          "itemString": "item:52178::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52195,
+          "itemString": "item:52195::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52190,
+          "itemString": "item:52190::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         }
+       ],
+       "savedReagents": [
+
+       ]
+      },
+           {
+       "recipeID": 382978,
+       "profit": 336300,
+       "expectedAverageProfit": 13302375,
+       "expectedAverageSavedCosts": 0,
+       "expectedQuality": 1,
+       "craftingChance": 1,
+       "triggeredInspiration": false,
+       "triggeredMulticraft": false,
+       "triggeredResourcefulness": false,
+       "craftResultItems": [
+                 {
+          "itemID": 52327,
+          "itemString": "item:52327::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52182,
+          "itemString": "item:52182::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         }
+       ],
+       "savedReagents": [
+
+       ]
+      },
+           {
+       "recipeID": 382978,
+       "profit": 912665,
+       "expectedAverageProfit": 13302375,
+       "expectedAverageSavedCosts": 0,
+       "expectedQuality": 1,
+       "craftingChance": 1,
+       "triggeredInspiration": false,
+       "triggeredMulticraft": false,
+       "triggeredResourcefulness": false,
+       "craftResultItems": [
+                 {
+          "itemID": 52327,
+          "itemString": "item:52327::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52181,
+          "itemString": "item:52181::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52194,
+          "itemString": "item:52194::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         }
+       ],
+       "savedReagents": [
+
+       ]
+      },
+           {
+       "recipeID": 382978,
+       "profit": 398050,
+       "expectedAverageProfit": 13302375,
+       "expectedAverageSavedCosts": 0,
+       "expectedQuality": 1,
+       "craftingChance": 1,
+       "triggeredInspiration": false,
+       "triggeredMulticraft": false,
+       "triggeredResourcefulness": false,
+       "craftResultItems": [
+                 {
+          "itemID": 52327,
+          "itemString": "item:52327::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52180,
+          "itemString": "item:52180::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         }
+       ],
+       "savedReagents": [
+
+       ]
+      },
+           {
+       "recipeID": 382978,
+       "profit": 461700,
+       "expectedAverageProfit": 13302375,
+       "expectedAverageSavedCosts": 0,
+       "expectedQuality": 1,
+       "craftingChance": 1,
+       "triggeredInspiration": false,
+       "triggeredMulticraft": false,
+       "triggeredResourcefulness": false,
+       "craftResultItems": [
+                 {
+          "itemID": 52327,
+          "itemString": "item:52327::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 2,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52179,
+          "itemString": "item:52179::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         }
+       ],
+       "savedReagents": [
+
+       ]
+      },
+           {
+       "recipeID": 382978,
+       "profit": 1003865,
+       "expectedAverageProfit": 13302375,
+       "expectedAverageSavedCosts": 0,
+       "expectedQuality": 1,
+       "craftingChance": 1,
+       "triggeredInspiration": false,
+       "triggeredMulticraft": false,
+       "triggeredResourcefulness": false,
+       "craftResultItems": [
+                 {
+          "itemID": 52327,
+          "itemString": "item:52327::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 2,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52181,
+          "itemString": "item:52181::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52193,
+          "itemString": "item:52193::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         }
+       ],
+       "savedReagents": [
+
+       ]
+      },
+           {
+       "recipeID": 382978,
+       "profit": 648280,
+       "expectedAverageProfit": 13302375,
+       "expectedAverageSavedCosts": 0,
+       "expectedQuality": 1,
+       "craftingChance": 1,
+       "triggeredInspiration": false,
+       "triggeredMulticraft": false,
+       "triggeredResourcefulness": false,
+       "craftResultItems": [
+                 {
+          "itemID": 52327,
+          "itemString": "item:52327::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52179,
+          "itemString": "item:52179::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52192,
+          "itemString": "item:52192::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         }
+       ],
+       "savedReagents": [
+
+       ]
+      },
+           {
+       "recipeID": 382978,
+       "profit": 623865,
+       "expectedAverageProfit": 13302375,
+       "expectedAverageSavedCosts": 0,
+       "expectedQuality": 1,
+       "craftingChance": 1,
+       "triggeredInspiration": false,
+       "triggeredMulticraft": false,
+       "triggeredResourcefulness": false,
+       "craftResultItems": [
+                 {
+          "itemID": 52327,
+          "itemString": "item:52327::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 2,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52181,
+          "itemString": "item:52181::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         }
+       ],
+       "savedReagents": [
+
+       ]
+      },
+           {
+       "recipeID": 382978,
+       "profit": 838945,
+       "expectedAverageProfit": 13302375,
+       "expectedAverageSavedCosts": 0,
+       "expectedQuality": 1,
+       "craftingChance": 1,
+       "triggeredInspiration": false,
+       "triggeredMulticraft": false,
+       "triggeredResourcefulness": false,
+       "craftResultItems": [
+                 {
+          "itemID": 52327,
+          "itemString": "item:52327::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 2,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52182,
+          "itemString": "item:52182::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52190,
+          "itemString": "item:52190::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         }
+       ],
+       "savedReagents": [
+
+       ]
+      },
+           {
+       "recipeID": 382978,
+       "profit": 486875,
+       "expectedAverageProfit": 13302375,
+       "expectedAverageSavedCosts": 0,
+       "expectedQuality": 1,
+       "craftingChance": 1,
+       "triggeredInspiration": false,
+       "triggeredMulticraft": false,
+       "triggeredResourcefulness": false,
+       "craftResultItems": [
+                 {
+          "itemID": 52327,
+          "itemString": "item:52327::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 2,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52180,
+          "itemString": "item:52180::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         }
+       ],
+       "savedReagents": [
+
+       ]
+      },
+           {
+       "recipeID": 382978,
+       "profit": 964345,
+       "expectedAverageProfit": 13302375,
+       "expectedAverageSavedCosts": 0,
+       "expectedQuality": 1,
+       "craftingChance": 1,
+       "triggeredInspiration": false,
+       "triggeredMulticraft": false,
+       "triggeredResourcefulness": false,
+       "craftResultItems": [
+                 {
+          "itemID": 52327,
+          "itemString": "item:52327::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 3,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52179,
+          "itemString": "item:52179::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52190,
+          "itemString": "item:52190::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         }
+       ],
+       "savedReagents": [
+
+       ]
+      },
+           {
+       "recipeID": 382978,
+       "profit": 1092690,
+       "expectedAverageProfit": 13302375,
+       "expectedAverageSavedCosts": 0,
+       "expectedQuality": 1,
+       "craftingChance": 1,
+       "triggeredInspiration": false,
+       "triggeredMulticraft": false,
+       "triggeredResourcefulness": false,
+       "craftResultItems": [
+                 {
+          "itemID": 52327,
+          "itemString": "item:52327::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 3,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52181,
+          "itemString": "item:52181::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52193,
+          "itemString": "item:52193::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         }
+       ],
+       "savedReagents": [
+
+       ]
+      },
+           {
+       "recipeID": 382978,
+       "profit": 231325,
+       "expectedAverageProfit": 13302375,
+       "expectedAverageSavedCosts": 0,
+       "expectedQuality": 1,
+       "craftingChance": 1,
+       "triggeredInspiration": false,
+       "triggeredMulticraft": false,
+       "triggeredResourcefulness": false,
+       "craftResultItems": [
+                 {
+          "itemID": 52327,
+          "itemString": "item:52327::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52177,
+          "itemString": "item:52177::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         }
+       ],
+       "savedReagents": [
+
+       ]
+      },
+           {
+       "recipeID": 382978,
+       "profit": 486875,
+       "expectedAverageProfit": 13302375,
+       "expectedAverageSavedCosts": 0,
+       "expectedQuality": 1,
+       "craftingChance": 1,
+       "triggeredInspiration": false,
+       "triggeredMulticraft": false,
+       "triggeredResourcefulness": false,
+       "craftResultItems": [
+                 {
+          "itemID": 52327,
+          "itemString": "item:52327::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 2,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52180,
+          "itemString": "item:52180::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         }
+       ],
+       "savedReagents": [
+
+       ]
+      },
+           {
+       "recipeID": 382978,
+       "profit": 191425,
+       "expectedAverageProfit": 13302375,
+       "expectedAverageSavedCosts": 0,
+       "expectedQuality": 1,
+       "craftingChance": 1,
+       "triggeredInspiration": false,
+       "triggeredMulticraft": false,
+       "triggeredResourcefulness": false,
+       "craftResultItems": [
+                 {
+          "itemID": 52327,
+          "itemString": "item:52327::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52178,
+          "itemString": "item:52178::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         }
+       ],
+       "savedReagents": [
+
+       ]
+      },
+           {
+       "recipeID": 382978,
+       "profit": 713925,
+       "expectedAverageProfit": 13302375,
+       "expectedAverageSavedCosts": 0,
+       "expectedQuality": 1,
+       "craftingChance": 1,
+       "triggeredInspiration": false,
+       "triggeredMulticraft": false,
+       "triggeredResourcefulness": false,
+       "craftResultItems": [
+                 {
+          "itemID": 52327,
+          "itemString": "item:52327::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52182,
+          "itemString": "item:52182::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52194,
+          "itemString": "item:52194::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         }
+       ],
+       "savedReagents": [
+
+       ]
+      },
+           {
+       "recipeID": 382978,
+       "profit": 794200,
+       "expectedAverageProfit": 13302375,
+       "expectedAverageSavedCosts": 0,
+       "expectedQuality": 1,
+       "craftingChance": 1,
+       "triggeredInspiration": false,
+       "triggeredMulticraft": false,
+       "triggeredResourcefulness": false,
+       "craftResultItems": [
+                 {
+          "itemID": 52327,
+          "itemString": "item:52327::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 2,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52179,
+          "itemString": "item:52179::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52191,
+          "itemString": "item:52191::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         }
+       ],
+       "savedReagents": [
+
+       ]
+      },
+           {
+       "recipeID": 382978,
+       "profit": 369075,
+       "expectedAverageProfit": 13302375,
+       "expectedAverageSavedCosts": 0,
+       "expectedQuality": 1,
+       "craftingChance": 1,
+       "triggeredInspiration": false,
+       "triggeredMulticraft": false,
+       "triggeredResourcefulness": false,
+       "craftResultItems": [
+                 {
+          "itemID": 52327,
+          "itemString": "item:52327::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 3,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52178,
+          "itemString": "item:52178::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         }
+       ],
+       "savedReagents": [
+
+       ]
+      },
+           {
+       "recipeID": 382978,
+       "profit": 513950,
+       "expectedAverageProfit": 13302375,
+       "expectedAverageSavedCosts": 0,
+       "expectedQuality": 1,
+       "craftingChance": 1,
+       "triggeredInspiration": false,
+       "triggeredMulticraft": false,
+       "triggeredResourcefulness": false,
+       "craftResultItems": [
+                 {
+          "itemID": 52327,
+          "itemString": "item:52327::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 3,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52182,
+          "itemString": "item:52182::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         }
+       ],
+       "savedReagents": [
+
+       ]
+      },
+           {
+       "recipeID": 382978,
+       "profit": 786600,
+       "expectedAverageProfit": 13302375,
+       "expectedAverageSavedCosts": 0,
+       "expectedQuality": 1,
+       "craftingChance": 1,
+       "triggeredInspiration": false,
+       "triggeredMulticraft": false,
+       "triggeredResourcefulness": false,
+       "craftResultItems": [
+                 {
+          "itemID": 52327,
+          "itemString": "item:52327::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 3,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52177,
+          "itemString": "item:52177::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52194,
+          "itemString": "item:52194::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         }
+       ],
+       "savedReagents": [
+
+       ]
+      },
+           {
+       "recipeID": 382978,
+       "profit": 1090125,
+       "expectedAverageProfit": 13302375,
+       "expectedAverageSavedCosts": 0,
+       "expectedQuality": 1,
+       "craftingChance": 1,
+       "triggeredInspiration": false,
+       "triggeredMulticraft": false,
+       "triggeredResourcefulness": false,
+       "craftResultItems": [
+                 {
+          "itemID": 52327,
+          "itemString": "item:52327::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 2,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52182,
+          "itemString": "item:52182::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52191,
+          "itemString": "item:52191::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 2,
+          "quantityMulticraft": 0
+         }
+       ],
+       "savedReagents": [
+
+       ]
+      },
+           {
+       "recipeID": 382978,
+       "profit": 320150,
+       "expectedAverageProfit": 13302375,
+       "expectedAverageSavedCosts": 0,
+       "expectedQuality": 1,
+       "craftingChance": 1,
+       "triggeredInspiration": false,
+       "triggeredMulticraft": false,
+       "triggeredResourcefulness": false,
+       "craftResultItems": [
+                 {
+          "itemID": 52327,
+          "itemString": "item:52327::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 2,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52177,
+          "itemString": "item:52177::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         }
+       ],
+       "savedReagents": [
+
+       ]
+      },
+           {
+       "recipeID": 382978,
+       "profit": 575700,
+       "expectedAverageProfit": 13302375,
+       "expectedAverageSavedCosts": 0,
+       "expectedQuality": 1,
+       "craftingChance": 1,
+       "triggeredInspiration": false,
+       "triggeredMulticraft": false,
+       "triggeredResourcefulness": false,
+       "craftResultItems": [
+                 {
+          "itemID": 52327,
+          "itemString": "item:52327::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 3,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52180,
+          "itemString": "item:52180::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         }
+       ],
+       "savedReagents": [
+
+       ]
+      },
+           {
+       "recipeID": 382978,
+       "profit": 782895,
+       "expectedAverageProfit": 13302375,
+       "expectedAverageSavedCosts": 0,
+       "expectedQuality": 1,
+       "craftingChance": 1,
+       "triggeredInspiration": false,
+       "triggeredMulticraft": false,
+       "triggeredResourcefulness": false,
+       "craftResultItems": [
+                 {
+          "itemID": 52327,
+          "itemString": "item:52327::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 3,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52178,
+          "itemString": "item:52178::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52190,
+          "itemString": "item:52190::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         }
+       ],
+       "savedReagents": [
+
+       ]
+      },
+           {
+       "recipeID": 382978,
+       "profit": 1229775,
+       "expectedAverageProfit": 13302375,
+       "expectedAverageSavedCosts": 0,
+       "expectedQuality": 1,
+       "craftingChance": 1,
+       "triggeredInspiration": false,
+       "triggeredMulticraft": false,
+       "triggeredResourcefulness": false,
+       "craftResultItems": [
+                 {
+          "itemID": 52327,
+          "itemString": "item:52327::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 2,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52181,
+          "itemString": "item:52181::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52195,
+          "itemString": "item:52195::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         }
+       ],
+       "savedReagents": [
+
+       ]
+      },
+           {
+       "recipeID": 382978,
+       "profit": 320150,
+       "expectedAverageProfit": 13302375,
+       "expectedAverageSavedCosts": 0,
+       "expectedQuality": 1,
+       "craftingChance": 1,
+       "triggeredInspiration": false,
+       "triggeredMulticraft": false,
+       "triggeredResourcefulness": false,
+       "craftResultItems": [
+                 {
+          "itemID": 52327,
+          "itemString": "item:52327::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 2,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52177,
+          "itemString": "item:52177::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         }
+       ],
+       "savedReagents": [
+
+       ]
+      },
+           {
+       "recipeID": 382978,
+       "profit": 191425,
+       "expectedAverageProfit": 13302375,
+       "expectedAverageSavedCosts": 0,
+       "expectedQuality": 1,
+       "craftingChance": 1,
+       "triggeredInspiration": false,
+       "triggeredMulticraft": false,
+       "triggeredResourcefulness": false,
+       "craftResultItems": [
+                 {
+          "itemID": 52327,
+          "itemString": "item:52327::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52178,
+          "itemString": "item:52178::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         }
+       ],
+       "savedReagents": [
+
+       ]
+      },
+           {
+       "recipeID": 382978,
+       "profit": 942210,
+       "expectedAverageProfit": 13302375,
+       "expectedAverageSavedCosts": 0,
+       "expectedQuality": 1,
+       "craftingChance": 1,
+       "triggeredInspiration": false,
+       "triggeredMulticraft": false,
+       "triggeredResourcefulness": false,
+       "craftResultItems": [
+                 {
+          "itemID": 52327,
+          "itemString": "item:52327::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52182,
+          "itemString": "item:52182::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52195,
+          "itemString": "item:52195::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         }
+       ],
+       "savedReagents": [
+
+       ]
+      },
+           {
+       "recipeID": 382978,
+       "profit": 701575,
+       "expectedAverageProfit": 13302375,
+       "expectedAverageSavedCosts": 0,
+       "expectedQuality": 1,
+       "craftingChance": 1,
+       "triggeredInspiration": false,
+       "triggeredMulticraft": false,
+       "triggeredResourcefulness": false,
+       "craftResultItems": [
+                 {
+          "itemID": 52327,
+          "itemString": "item:52327::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 3,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52178,
+          "itemString": "item:52178::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52191,
+          "itemString": "item:52191::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         }
+       ],
+       "savedReagents": [
+
+       ]
+      },
+           {
+       "recipeID": 382978,
+       "profit": 461700,
+       "expectedAverageProfit": 13302375,
+       "expectedAverageSavedCosts": 0,
+       "expectedQuality": 1,
+       "craftingChance": 1,
+       "triggeredInspiration": false,
+       "triggeredMulticraft": false,
+       "triggeredResourcefulness": false,
+       "craftResultItems": [
+                 {
+          "itemID": 52327,
+          "itemString": "item:52327::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 2,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52179,
+          "itemString": "item:52179::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         }
+       ],
+       "savedReagents": [
+
+       ]
+      },
+           {
+       "recipeID": 382978,
+       "profit": 810445,
+       "expectedAverageProfit": 13302375,
+       "expectedAverageSavedCosts": 0,
+       "expectedQuality": 1,
+       "craftingChance": 1,
+       "triggeredInspiration": false,
+       "triggeredMulticraft": false,
+       "triggeredResourcefulness": false,
+       "craftResultItems": [
+                 {
+          "itemID": 52327,
+          "itemString": "item:52327::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52181,
+          "itemString": "item:52181::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52192,
+          "itemString": "item:52192::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         }
+       ],
+       "savedReagents": [
+
+       ]
+      },
+           {
+       "recipeID": 382978,
+       "profit": 712690,
+       "expectedAverageProfit": 13302375,
+       "expectedAverageSavedCosts": 0,
+       "expectedQuality": 1,
+       "craftingChance": 1,
+       "triggeredInspiration": false,
+       "triggeredMulticraft": false,
+       "triggeredResourcefulness": false,
+       "craftResultItems": [
+                 {
+          "itemID": 52327,
+          "itemString": "item:52327::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 3,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52181,
+          "itemString": "item:52181::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         }
+       ],
+       "savedReagents": [
+
+       ]
+      },
+           {
+       "recipeID": 382978,
+       "profit": 535040,
+       "expectedAverageProfit": 13302375,
+       "expectedAverageSavedCosts": 0,
+       "expectedQuality": 1,
+       "craftingChance": 1,
+       "triggeredInspiration": false,
+       "triggeredMulticraft": false,
+       "triggeredResourcefulness": false,
+       "craftResultItems": [
+                 {
+          "itemID": 52327,
+          "itemString": "item:52327::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52181,
+          "itemString": "item:52181::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         }
+       ],
+       "savedReagents": [
+
+       ]
+      },
+           {
+       "recipeID": 382978,
+       "profit": 191425,
+       "expectedAverageProfit": 13302375,
+       "expectedAverageSavedCosts": 0,
+       "expectedQuality": 1,
+       "craftingChance": 1,
+       "triggeredInspiration": false,
+       "triggeredMulticraft": false,
+       "triggeredResourcefulness": false,
+       "craftResultItems": [
+                 {
+          "itemID": 52327,
+          "itemString": "item:52327::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52178,
+          "itemString": "item:52178::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         }
+       ],
+       "savedReagents": [
+
+       ]
+      },
+           {
+       "recipeID": 382978,
+       "profit": 1114730,
+       "expectedAverageProfit": 13302375,
+       "expectedAverageSavedCosts": 0,
+       "expectedQuality": 1,
+       "craftingChance": 1,
+       "triggeredInspiration": false,
+       "triggeredMulticraft": false,
+       "triggeredResourcefulness": false,
+       "craftResultItems": [
+                 {
+          "itemID": 52327,
+          "itemString": "item:52327::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 2,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52179,
+          "itemString": "item:52179::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52194,
+          "itemString": "item:52194::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52192,
+          "itemString": "item:52192::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         }
+       ],
+       "savedReagents": [
+
+       ]
+      },
+           {
+       "recipeID": 382978,
+       "profit": 550525,
+       "expectedAverageProfit": 13302375,
+       "expectedAverageSavedCosts": 0,
+       "expectedQuality": 1,
+       "craftingChance": 1,
+       "triggeredInspiration": false,
+       "triggeredMulticraft": false,
+       "triggeredResourcefulness": false,
+       "craftResultItems": [
+                 {
+          "itemID": 52327,
+          "itemString": "item:52327::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 3,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52179,
+          "itemString": "item:52179::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         }
+       ],
+       "savedReagents": [
+
+       ]
+      },
+           {
+       "recipeID": 382978,
+       "profit": 802750,
+       "expectedAverageProfit": 13302375,
+       "expectedAverageSavedCosts": 0,
+       "expectedQuality": 1,
+       "craftingChance": 1,
+       "triggeredInspiration": false,
+       "triggeredMulticraft": false,
+       "triggeredResourcefulness": false,
+       "craftResultItems": [
+                 {
+          "itemID": 52327,
+          "itemString": "item:52327::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 2,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52182,
+          "itemString": "item:52182::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52194,
+          "itemString": "item:52194::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         }
+       ],
+       "savedReagents": [
+
+       ]
+      },
+           {
+       "recipeID": 382978,
+       "profit": 425125,
+       "expectedAverageProfit": 13302375,
+       "expectedAverageSavedCosts": 0,
+       "expectedQuality": 1,
+       "craftingChance": 1,
+       "triggeredInspiration": false,
+       "triggeredMulticraft": false,
+       "triggeredResourcefulness": false,
+       "craftResultItems": [
+                 {
+          "itemID": 52327,
+          "itemString": "item:52327::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 2,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52182,
+          "itemString": "item:52182::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         }
+       ],
+       "savedReagents": [
+
+       ]
+      },
+           {
+       "recipeID": 382978,
+       "profit": 191425,
+       "expectedAverageProfit": 13302375,
+       "expectedAverageSavedCosts": 0,
+       "expectedQuality": 1,
+       "craftingChance": 1,
+       "triggeredInspiration": false,
+       "triggeredMulticraft": false,
+       "triggeredResourcefulness": false,
+       "craftResultItems": [
+                 {
+          "itemID": 52327,
+          "itemString": "item:52327::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52178,
+          "itemString": "item:52178::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         }
+       ],
+       "savedReagents": [
+
+       ]
+      },
+           {
+       "recipeID": 382978,
+       "profit": 486875,
+       "expectedAverageProfit": 13302375,
+       "expectedAverageSavedCosts": 0,
+       "expectedQuality": 1,
+       "craftingChance": 1,
+       "triggeredInspiration": false,
+       "triggeredMulticraft": false,
+       "triggeredResourcefulness": false,
+       "craftResultItems": [
+                 {
+          "itemID": 52327,
+          "itemString": "item:52327::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 2,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52180,
+          "itemString": "item:52180::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         }
+       ],
+       "savedReagents": [
+
+       ]
+      },
+           {
+       "recipeID": 382978,
+       "profit": 486875,
+       "expectedAverageProfit": 13302375,
+       "expectedAverageSavedCosts": 0,
+       "expectedQuality": 1,
+       "craftingChance": 1,
+       "triggeredInspiration": false,
+       "triggeredMulticraft": false,
+       "triggeredResourcefulness": false,
+       "craftResultItems": [
+                 {
+          "itemID": 52327,
+          "itemString": "item:52327::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 2,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52180,
+          "itemString": "item:52180::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         }
+       ],
+       "savedReagents": [
+
+       ]
+      },
+           {
+       "recipeID": 382978,
+       "profit": 1400110,
+       "expectedAverageProfit": 13302375,
+       "expectedAverageSavedCosts": 0,
+       "expectedQuality": 1,
+       "craftingChance": 1,
+       "triggeredInspiration": false,
+       "triggeredMulticraft": false,
+       "triggeredResourcefulness": false,
+       "craftResultItems": [
+                 {
+          "itemID": 52327,
+          "itemString": "item:52327::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 2,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52179,
+          "itemString": "item:52179::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52195,
+          "itemString": "item:52195::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52191,
+          "itemString": "item:52191::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         }
+       ],
+       "savedReagents": [
+
+       ]
+      },
+           {
+       "recipeID": 382978,
+       "profit": 486875,
+       "expectedAverageProfit": 13302375,
+       "expectedAverageSavedCosts": 0,
+       "expectedQuality": 1,
+       "craftingChance": 1,
+       "triggeredInspiration": false,
+       "triggeredMulticraft": false,
+       "triggeredResourcefulness": false,
+       "craftResultItems": [
+                 {
+          "itemID": 52327,
+          "itemString": "item:52327::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 2,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52180,
+          "itemString": "item:52180::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         }
+       ],
+       "savedReagents": [
+
+       ]
+      },
+           {
+       "recipeID": 382978,
+       "profit": 623865,
+       "expectedAverageProfit": 13302375,
+       "expectedAverageSavedCosts": 0,
+       "expectedQuality": 1,
+       "craftingChance": 1,
+       "triggeredInspiration": false,
+       "triggeredMulticraft": false,
+       "triggeredResourcefulness": false,
+       "craftResultItems": [
+                 {
+          "itemID": 52327,
+          "itemString": "item:52327::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 2,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52181,
+          "itemString": "item:52181::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         }
+       ],
+       "savedReagents": [
+
+       ]
+      },
+           {
+       "recipeID": 382978,
+       "profit": 1269200,
+       "expectedAverageProfit": 13302375,
+       "expectedAverageSavedCosts": 0,
+       "expectedQuality": 1,
+       "craftingChance": 1,
+       "triggeredInspiration": false,
+       "triggeredMulticraft": false,
+       "triggeredResourcefulness": false,
+       "craftResultItems": [
+                 {
+          "itemID": 52327,
+          "itemString": "item:52327::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 3,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52182,
+          "itemString": "item:52182::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52194,
+          "itemString": "item:52194::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 2,
+          "quantityMulticraft": 0
+         }
+       ],
+       "savedReagents": [
+
+       ]
+      },
+           {
+       "recipeID": 382978,
+       "profit": 825930,
+       "expectedAverageProfit": 13302375,
+       "expectedAverageSavedCosts": 0,
+       "expectedQuality": 1,
+       "craftingChance": 1,
+       "triggeredInspiration": false,
+       "triggeredMulticraft": false,
+       "triggeredResourcefulness": false,
+       "craftResultItems": [
+                 {
+          "itemID": 52327,
+          "itemString": "item:52327::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 3,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52179,
+          "itemString": "item:52179::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52192,
+          "itemString": "item:52192::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         }
+       ],
+       "savedReagents": [
+
+       ]
+      },
+           {
+       "recipeID": 382978,
+       "profit": 535040,
+       "expectedAverageProfit": 13302375,
+       "expectedAverageSavedCosts": 0,
+       "expectedQuality": 1,
+       "craftingChance": 1,
+       "triggeredInspiration": false,
+       "triggeredMulticraft": false,
+       "triggeredResourcefulness": false,
+       "craftResultItems": [
+                 {
+          "itemID": 52327,
+          "itemString": "item:52327::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52181,
+          "itemString": "item:52181::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         }
+       ],
+       "savedReagents": [
+
+       ]
+      },
+           {
+       "recipeID": 382978,
+       "profit": 336300,
+       "expectedAverageProfit": 13302375,
+       "expectedAverageSavedCosts": 0,
+       "expectedQuality": 1,
+       "craftingChance": 1,
+       "triggeredInspiration": false,
+       "triggeredMulticraft": false,
+       "triggeredResourcefulness": false,
+       "craftResultItems": [
+                 {
+          "itemID": 52327,
+          "itemString": "item:52327::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52182,
+          "itemString": "item:52182::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         }
+       ],
+       "savedReagents": [
+
+       ]
+      },
+           {
+       "recipeID": 382978,
+       "profit": 575700,
+       "expectedAverageProfit": 13302375,
+       "expectedAverageSavedCosts": 0,
+       "expectedQuality": 1,
+       "craftingChance": 1,
+       "triggeredInspiration": false,
+       "triggeredMulticraft": false,
+       "triggeredResourcefulness": false,
+       "craftResultItems": [
+                 {
+          "itemID": 52327,
+          "itemString": "item:52327::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 3,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52180,
+          "itemString": "item:52180::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         }
+       ],
+       "savedReagents": [
+
+       ]
+      },
+           {
+       "recipeID": 382978,
+       "profit": 786600,
+       "expectedAverageProfit": 13302375,
+       "expectedAverageSavedCosts": 0,
+       "expectedQuality": 1,
+       "craftingChance": 1,
+       "triggeredInspiration": false,
+       "triggeredMulticraft": false,
+       "triggeredResourcefulness": false,
+       "craftResultItems": [
+                 {
+          "itemID": 52327,
+          "itemString": "item:52327::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 3,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52177,
+          "itemString": "item:52177::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52194,
+          "itemString": "item:52194::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         }
+       ],
+       "savedReagents": [
+
+       ]
+      },
+           {
+       "recipeID": 382978,
+       "profit": 752875,
+       "expectedAverageProfit": 13302375,
+       "expectedAverageSavedCosts": 0,
+       "expectedQuality": 1,
+       "craftingChance": 1,
+       "triggeredInspiration": false,
+       "triggeredMulticraft": false,
+       "triggeredResourcefulness": false,
+       "craftResultItems": [
+                 {
+          "itemID": 52327,
+          "itemString": "item:52327::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52179,
+          "itemString": "item:52179::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52193,
+          "itemString": "item:52193::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         }
+       ],
+       "savedReagents": [
+
+       ]
+      },
+           {
+       "recipeID": 382978,
+       "profit": 778050,
+       "expectedAverageProfit": 13302375,
+       "expectedAverageSavedCosts": 0,
+       "expectedQuality": 1,
+       "craftingChance": 1,
+       "triggeredInspiration": false,
+       "triggeredMulticraft": false,
+       "triggeredResourcefulness": false,
+       "craftResultItems": [
+                 {
+          "itemID": 52327,
+          "itemString": "item:52327::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52180,
+          "itemString": "item:52180::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52193,
+          "itemString": "item:52193::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         }
+       ],
+       "savedReagents": [
+
+       ]
+      },
+           {
+       "recipeID": 382978,
+       "profit": 425125,
+       "expectedAverageProfit": 13302375,
+       "expectedAverageSavedCosts": 0,
+       "expectedQuality": 1,
+       "craftingChance": 1,
+       "triggeredInspiration": false,
+       "triggeredMulticraft": false,
+       "triggeredResourcefulness": false,
+       "craftResultItems": [
+                 {
+          "itemID": 52327,
+          "itemString": "item:52327::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 2,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52182,
+          "itemString": "item:52182::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         }
+       ],
+       "savedReagents": [
+
+       ]
+      },
+           {
+       "recipeID": 382978,
+       "profit": 741475,
+       "expectedAverageProfit": 13302375,
+       "expectedAverageSavedCosts": 0,
+       "expectedQuality": 1,
+       "craftingChance": 1,
+       "triggeredInspiration": false,
+       "triggeredMulticraft": false,
+       "triggeredResourcefulness": false,
+       "craftResultItems": [
+                 {
+          "itemID": 52327,
+          "itemString": "item:52327::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 3,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52177,
+          "itemString": "item:52177::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52191,
+          "itemString": "item:52191::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         }
+       ],
+       "savedReagents": [
+
+       ]
+      },
+           {
+       "recipeID": 382978,
+       "profit": 408975,
+       "expectedAverageProfit": 13302375,
+       "expectedAverageSavedCosts": 0,
+       "expectedQuality": 1,
+       "craftingChance": 1,
+       "triggeredInspiration": false,
+       "triggeredMulticraft": false,
+       "triggeredResourcefulness": false,
+       "craftResultItems": [
+                 {
+          "itemID": 52327,
+          "itemString": "item:52327::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 3,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52177,
+          "itemString": "item:52177::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         }
+       ],
+       "savedReagents": [
+
+       ]
+      },
+           {
+       "recipeID": 382978,
+       "profit": 369075,
+       "expectedAverageProfit": 13302375,
+       "expectedAverageSavedCosts": 0,
+       "expectedQuality": 1,
+       "craftingChance": 1,
+       "triggeredInspiration": false,
+       "triggeredMulticraft": false,
+       "triggeredResourcefulness": false,
+       "craftResultItems": [
+                 {
+          "itemID": 52327,
+          "itemString": "item:52327::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 3,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52178,
+          "itemString": "item:52178::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         }
+       ],
+       "savedReagents": [
+
+       ]
+      },
+           {
+       "recipeID": 382978,
+       "profit": 825930,
+       "expectedAverageProfit": 13302375,
+       "expectedAverageSavedCosts": 0,
+       "expectedQuality": 1,
+       "craftingChance": 1,
+       "triggeredInspiration": false,
+       "triggeredMulticraft": false,
+       "triggeredResourcefulness": false,
+       "craftResultItems": [
+                 {
+          "itemID": 52327,
+          "itemString": "item:52327::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 3,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52179,
+          "itemString": "item:52179::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52192,
+          "itemString": "item:52192::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         }
+       ],
+       "savedReagents": [
+
+       ]
+      },
+           {
+       "recipeID": 382978,
+       "profit": 336300,
+       "expectedAverageProfit": 13302375,
+       "expectedAverageSavedCosts": 0,
+       "expectedQuality": 1,
+       "craftingChance": 1,
+       "triggeredInspiration": false,
+       "triggeredMulticraft": false,
+       "triggeredResourcefulness": false,
+       "craftResultItems": [
+                 {
+          "itemID": 52327,
+          "itemString": "item:52327::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52182,
+          "itemString": "item:52182::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         }
+       ],
+       "savedReagents": [
+
+       ]
+      },
+           {
+       "recipeID": 382978,
+       "profit": 550525,
+       "expectedAverageProfit": 13302375,
+       "expectedAverageSavedCosts": 0,
+       "expectedQuality": 1,
+       "craftingChance": 1,
+       "triggeredInspiration": false,
+       "triggeredMulticraft": false,
+       "triggeredResourcefulness": false,
+       "craftResultItems": [
+                 {
+          "itemID": 52327,
+          "itemString": "item:52327::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 3,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52179,
+          "itemString": "item:52179::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         }
+       ],
+       "savedReagents": [
+
+       ]
+      },
+           {
+       "recipeID": 382978,
+       "profit": 320150,
+       "expectedAverageProfit": 13302375,
+       "expectedAverageSavedCosts": 0,
+       "expectedQuality": 1,
+       "craftingChance": 1,
+       "triggeredInspiration": false,
+       "triggeredMulticraft": false,
+       "triggeredResourcefulness": false,
+       "craftResultItems": [
+                 {
+          "itemID": 52327,
+          "itemString": "item:52327::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 2,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52177,
+          "itemString": "item:52177::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         }
+       ],
+       "savedReagents": [
+
+       ]
+      },
+           {
+       "recipeID": 382978,
+       "profit": 280250,
+       "expectedAverageProfit": 13302375,
+       "expectedAverageSavedCosts": 0,
+       "expectedQuality": 1,
+       "craftingChance": 1,
+       "triggeredInspiration": false,
+       "triggeredMulticraft": false,
+       "triggeredResourcefulness": false,
+       "craftResultItems": [
+                 {
+          "itemID": 52327,
+          "itemString": "item:52327::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 2,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52178,
+          "itemString": "item:52178::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         }
+       ],
+       "savedReagents": [
+
+       ]
+      },
+           {
+       "recipeID": 382978,
+       "profit": 762280,
+       "expectedAverageProfit": 13302375,
+       "expectedAverageSavedCosts": 0,
+       "expectedQuality": 1,
+       "craftingChance": 1,
+       "triggeredInspiration": false,
+       "triggeredMulticraft": false,
+       "triggeredResourcefulness": false,
+       "craftResultItems": [
+                 {
+          "itemID": 52327,
+          "itemString": "item:52327::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 2,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52180,
+          "itemString": "item:52180::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52192,
+          "itemString": "item:52192::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         }
+       ],
+       "savedReagents": [
+
+       ]
+      },
+           {
+       "recipeID": 382978,
+       "profit": 1229775,
+       "expectedAverageProfit": 13302375,
+       "expectedAverageSavedCosts": 0,
+       "expectedQuality": 1,
+       "craftingChance": 1,
+       "triggeredInspiration": false,
+       "triggeredMulticraft": false,
+       "triggeredResourcefulness": false,
+       "craftResultItems": [
+                 {
+          "itemID": 52327,
+          "itemString": "item:52327::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 2,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52181,
+          "itemString": "item:52181::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52195,
+          "itemString": "item:52195::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         }
+       ],
+       "savedReagents": [
+
+       ]
+      },
+           {
+       "recipeID": 382978,
+       "profit": 425125,
+       "expectedAverageProfit": 13302375,
+       "expectedAverageSavedCosts": 0,
+       "expectedQuality": 1,
+       "craftingChance": 1,
+       "triggeredInspiration": false,
+       "triggeredMulticraft": false,
+       "triggeredResourcefulness": false,
+       "craftResultItems": [
+                 {
+          "itemID": 52327,
+          "itemString": "item:52327::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 2,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52182,
+          "itemString": "item:52182::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         }
+       ],
+       "savedReagents": [
+
+       ]
+      },
+           {
+       "recipeID": 382978,
+       "profit": 550525,
+       "expectedAverageProfit": 13302375,
+       "expectedAverageSavedCosts": 0,
+       "expectedQuality": 1,
+       "craftingChance": 1,
+       "triggeredInspiration": false,
+       "triggeredMulticraft": false,
+       "triggeredResourcefulness": false,
+       "craftResultItems": [
+                 {
+          "itemID": 52327,
+          "itemString": "item:52327::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 3,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52179,
+          "itemString": "item:52179::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         }
+       ],
+       "savedReagents": [
+
+       ]
+      },
+           {
+       "recipeID": 382978,
+       "profit": 425125,
+       "expectedAverageProfit": 13302375,
+       "expectedAverageSavedCosts": 0,
+       "expectedQuality": 1,
+       "craftingChance": 1,
+       "triggeredInspiration": false,
+       "triggeredMulticraft": false,
+       "triggeredResourcefulness": false,
+       "craftResultItems": [
+                 {
+          "itemID": 52327,
+          "itemString": "item:52327::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 2,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52182,
+          "itemString": "item:52182::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         }
+       ],
+       "savedReagents": [
+
+       ]
+      },
+           {
+       "recipeID": 382978,
+       "profit": 369075,
+       "expectedAverageProfit": 13302375,
+       "expectedAverageSavedCosts": 0,
+       "expectedQuality": 1,
+       "craftingChance": 1,
+       "triggeredInspiration": false,
+       "triggeredMulticraft": false,
+       "triggeredResourcefulness": false,
+       "craftResultItems": [
+                 {
+          "itemID": 52327,
+          "itemString": "item:52327::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 3,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52178,
+          "itemString": "item:52178::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         }
+       ],
+       "savedReagents": [
+
+       ]
+      },
+           {
+       "recipeID": 382978,
+       "profit": 280250,
+       "expectedAverageProfit": 13302375,
+       "expectedAverageSavedCosts": 0,
+       "expectedQuality": 1,
+       "craftingChance": 1,
+       "triggeredInspiration": false,
+       "triggeredMulticraft": false,
+       "triggeredResourcefulness": false,
+       "craftResultItems": [
+                 {
+          "itemID": 52327,
+          "itemString": "item:52327::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 2,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52178,
+          "itemString": "item:52178::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         }
+       ],
+       "savedReagents": [
+
+       ]
+      },
+           {
+       "recipeID": 382978,
+       "profit": 694070,
+       "expectedAverageProfit": 13302375,
+       "expectedAverageSavedCosts": 0,
+       "expectedQuality": 1,
+       "craftingChance": 1,
+       "triggeredInspiration": false,
+       "triggeredMulticraft": false,
+       "triggeredResourcefulness": false,
+       "craftResultItems": [
+                 {
+          "itemID": 52327,
+          "itemString": "item:52327::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 2,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52178,
+          "itemString": "item:52178::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52190,
+          "itemString": "item:52190::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         }
+       ],
+       "savedReagents": [
+
+       ]
+      },
+           {
+       "recipeID": 382978,
+       "profit": 1092785,
+       "expectedAverageProfit": 13302375,
+       "expectedAverageSavedCosts": 0,
+       "expectedQuality": 1,
+       "craftingChance": 1,
+       "triggeredInspiration": false,
+       "triggeredMulticraft": false,
+       "triggeredResourcefulness": false,
+       "craftResultItems": [
+                 {
+          "itemID": 52327,
+          "itemString": "item:52327::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 2,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52180,
+          "itemString": "item:52180::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52195,
+          "itemString": "item:52195::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         }
+       ],
+       "savedReagents": [
+
+       ]
+      },
+           {
+       "recipeID": 382978,
+       "profit": 810445,
+       "expectedAverageProfit": 13302375,
+       "expectedAverageSavedCosts": 0,
+       "expectedQuality": 1,
+       "craftingChance": 1,
+       "triggeredInspiration": false,
+       "triggeredMulticraft": false,
+       "triggeredResourcefulness": false,
+       "craftResultItems": [
+                 {
+          "itemID": 52327,
+          "itemString": "item:52327::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52181,
+          "itemString": "item:52181::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52192,
+          "itemString": "item:52192::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         }
+       ],
+       "savedReagents": [
+
+       ]
+      },
+           {
+       "recipeID": 382978,
+       "profit": 408975,
+       "expectedAverageProfit": 13302375,
+       "expectedAverageSavedCosts": 0,
+       "expectedQuality": 1,
+       "craftingChance": 1,
+       "triggeredInspiration": false,
+       "triggeredMulticraft": false,
+       "triggeredResourcefulness": false,
+       "craftResultItems": [
+                 {
+          "itemID": 52327,
+          "itemString": "item:52327::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 3,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52177,
+          "itemString": "item:52177::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         }
+       ],
+       "savedReagents": [
+
+       ]
+      },
+           {
+       "recipeID": 382978,
+       "profit": 535040,
+       "expectedAverageProfit": 13302375,
+       "expectedAverageSavedCosts": 0,
+       "expectedQuality": 1,
+       "craftingChance": 1,
+       "triggeredInspiration": false,
+       "triggeredMulticraft": false,
+       "triggeredResourcefulness": false,
+       "craftResultItems": [
+                 {
+          "itemID": 52327,
+          "itemString": "item:52327::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52181,
+          "itemString": "item:52181::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         }
+       ],
+       "savedReagents": [
+
+       ]
+      },
+           {
+       "recipeID": 382978,
+       "profit": 461700,
+       "expectedAverageProfit": 13302375,
+       "expectedAverageSavedCosts": 0,
+       "expectedQuality": 1,
+       "craftingChance": 1,
+       "triggeredInspiration": false,
+       "triggeredMulticraft": false,
+       "triggeredResourcefulness": false,
+       "craftResultItems": [
+                 {
+          "itemID": 52327,
+          "itemString": "item:52327::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 2,
+          "quantityMulticraft": 0
+         },
+                 {
+          "itemID": 52179,
+          "itemString": "item:52179::::::::70:577:::::::::",
+          "qualityID": nil,
+          "quantity": 1,
+          "quantityMulticraft": 0
+         }
+       ],
+       "savedReagents": [
+
+       ]
+      }
+    ]
+   },
+     {
+    "recipeID": 404740,
+    "numCrafts": 0,
+    "totalProfit": 0,
+    "totalExpectedProfit": 0,
+    "numInspiration": 0,
+    "numMulticraft": 0,
+    "numMulticraftExtraItems": 0,
+    "numResourcefulness": 0,
+    "totalSavedCosts": 0,
+    "totalItems": [
+
+    ],
+    "totalSavedReagents": [
+
+    ],
+    "craftResults": [
+
+    ]
+   },
+     {
+    "recipeID": 374525,
+    "numCrafts": 0,
+    "totalProfit": 0,
+    "totalExpectedProfit": 0,
+    "numInspiration": 0,
+    "numMulticraft": 0,
+    "numMulticraftExtraItems": 0,
+    "numResourcefulness": 0,
+    "totalSavedCosts": 0,
+    "totalItems": [
+
+    ],
+    "totalSavedReagents": [
+
+    ],
+    "craftResults": [
+
+    ]
+   }
+ ]
+}
